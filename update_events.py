@@ -1,4 +1,5 @@
 import json
+import re
 import urllib.request
 
 PAGE_URL = "https://dekhobhai.pages.dev/"
@@ -13,8 +14,13 @@ def fetch_live_events():
         with urllib.request.urlopen(req) as response:
             html = response.read().decode('utf-8')
             print("HTML length received:", len(html))
-            # Print first 500 chars of HTML to check what we are getting
-            print("Snippet:", html[:500])
+            
+            # Saare href links dhoond kar print karwa lete hain
+            hrefs = re.findall(r'href=["\']([^"\']+)["\']', html)
+            print(f"Total hrefs found: {len(hrefs)}")
+            for h in hrefs[:30]:  # Pehle 30 links print karwayenge logs mein dekhne ke liye
+                print("Found link:", h)
+                
     except Exception as e:
         print("Failed to fetch:", e)
 

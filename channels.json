@@ -1,2078 +1,2370 @@
-{
-  "type": "M3U (extended)",
-  "name": "",
-  "entries": [
-    {
-      "file": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
-      "title": "30A Golf Kingdom (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
-    },
-    {
-      "file": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
-      "title": "A Spor SD (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
-    },
-    {
-      "file": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
-      "title": "ACC Digital Network (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
-    },
-    {
-      "file": "http://23.239.31.26:8989/accnetwork/index.m3u8",
-      "title": "ACC Network (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
-    },
-    {
-      "file": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8",
-      "title": "ACI Sport TV SD (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
-    },
-    {
-      "file": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
-      "title": "Africa 24 Sport (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
-    },
-    {
-      "file": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
-      "title": "Al Iraqia Sport (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
-    },
-    {
-      "file": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318",
-      "title": "American Ninja Warrior (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
-    },
-    {
-      "file": "http://88.212.15.17/live/arena4/index.m3u8",
-      "title": "Arena4",
-      "duration": -1,
-      "artist": "",
-      "album": ""
-    },
-    {
-      "file": "http://88.212.15.17/live/test_arenasport/playlist.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Arena Sport 1",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+[
+    {
+        "id": "30agolfkingdom720p",
+        "name": "30A Golf Kingdom (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://30a-tv.com/feeds/vidaa/golf.m3u8"
     },
-    {
-      "file": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD",
-      "title": "Arena Sport 1 Premium (Serbia) (360p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
-    },
-    {
-      "file": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6",
-      "title": "Arena Sport 1 Premium (Slovenia)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
-    },
-    {
-      "file": "http://88.212.15.17/live/test_arenasport_dva/playlist.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Arena Sport 2",
-      "duration": -1,
-      "artist": "",
-      "album": ""
-    },
-    {
-      "file": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28",
-      "title": "Arena Sport Premium M1",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "asporsd1080p",
+        "name": "A Spor SD (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8"
     },
-    {
-      "file": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25sVNOuyj97sUY8aJBFf4",
-      "title": "Arena Sport Premium M2",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "accdigitalnetwork1080p",
+        "name": "ACC Digital Network (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8"
     },
-    {
-      "file": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH",
-      "title": "Arena Sport Premium M3",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "accnetwork720p",
+        "name": "ACC Network (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://23.239.31.26:8989/accnetwork/index.m3u8"
     },
-    {
-      "file": "http://149.100.11.252:8000/play/a065/index.m3u8",
-      "title": "Arryadia (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "acisporttvsd1080p",
+        "name": "ACI Sport TV SD (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8"
     },
-    {
-      "file": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
-      "title": "AS3 Sport TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "africa24sport1080p",
+        "name": "Africa 24 Sport (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
     },
-    {
-      "file": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8",
-      "title": "Astrahan.Ru Sport (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "aliraqiasport720p",
+        "name": "Al Iraqia Sport (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
     },
-    {
-      "file": "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8",
-      "title": "ATG Live (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "americanninjawarrior1080p",
+        "name": "American Ninja Warrior (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318"
     },
-    {
-      "file": "http://168.196.127.137:6001/play/a06v/index.m3u8",
-      "title": "AyM Sports (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "arena4",
+        "name": "Arena4",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/arena4/index.m3u8"
     },
-    {
-      "file": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-      "title": "Bahrain Sports 1 (720p) [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari5373",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/test_arenasport/playlist.m3u8"
     },
-    {
-      "file": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
-      "title": "Bahrain Sports 2 (720p) [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "arenasport1premiumserbia360p",
+        "name": "Arena Sport 1 Premium (Serbia) (360p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
     },
-    {
-      "file": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
-      "title": "beIN SPORTS XTRA (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "arenasport1premiumslovenia",
+        "name": "Arena Sport 1 Premium (Slovenia)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6"
     },
-    {
-      "file": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
-      "title": "BEK Sports West (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari5373",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/test_arenasport_dva/playlist.m3u8"
     },
-    {
-      "file": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-      "title": "Belarus-5 (1080p) [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "arenasportpremiumm1",
+        "name": "Arena Sport Premium M1",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28"
     },
-    {
-      "file": "http://178.124.179.122:8080/BT5/index.m3u8",
-      "title": "Belarus-5 HD (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "arenasportpremiumm2",
+        "name": "Arena Sport Premium M2",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25sVNOuyj97sUY8aJBFf4"
     },
-    {
-      "file": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "title": "Belarus-5 Internet (1080p) [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "arenasportpremiumm3",
+        "name": "Arena Sport Premium M3",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH"
     },
-    {
-      "file": "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8",
-      "title": "Bellator MMA",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "arryadia720p",
+        "name": "Arryadia (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://149.100.11.252:8000/play/a065/index.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8",
-      "title": "Brondby TV",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "as3sporttv1080p",
+        "name": "AS3 Sport TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
     },
-    {
-      "file": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
-      "title": "Canal Showsport (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "astrahanrusport720p",
+        "name": "Astrahan.Ru Sport (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
     },
-    {
-      "file": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0",
-      "title": "Canal+ Sport 2 SK",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "atglive720p",
+        "name": "ATG Live (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8"
     },
-    {
-      "file": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0",
-      "title": "Canal+ Sport 3 SK",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "aymsports1080p",
+        "name": "AyM Sports (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://168.196.127.137:6001/play/a06v/index.m3u8"
     },
-    {
-      "file": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0",
-      "title": "Canal+ Sport 4 SK",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "bahrainsports1720pnot247",
+        "name": "Bahrain Sports 1 (720p) [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
     },
-    {
-      "file": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0",
-      "title": "Canal+ Sport 5 SK",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "bahrainsports2720pnot247",
+        "name": "Bahrain Sports 2 (720p) [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
     },
-    {
-      "file": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0",
-      "title": "Canal+ Sport 6 SK",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "beinsportsxtra1080p",
+        "name": "beIN SPORTS XTRA (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
     },
-    {
-      "file": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0",
-      "title": "Canal+ Sport 7 SK",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "beksportswest720p",
+        "name": "BEK Sports West (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
     },
-    {
-      "file": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0",
-      "title": "Canal+ Sport 8 SK",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "belarus51080pnot247",
+        "name": "Belarus-5 (1080p) [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
     },
-    {
-      "file": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
-      "title": "Canal+ Sport (1080p) [Geo-blocked]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "belarus5hd1080p",
+        "name": "Belarus-5 HD (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://178.124.179.122:8080/BT5/index.m3u8"
     },
-    {
-      "file": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0",
-      "title": "Canal+ Sport SK",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "belarus5internet1080pnot247",
+        "name": "Belarus-5 Internet (1080p) [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
     },
-    {
-      "file": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8",
-      "title": "CBS Sports Golazo Network (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "bellatormma",
+        "name": "Bellator MMA",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8",
-      "title": "CBS Sports HQ (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "brondbytv",
+        "name": "Brondby TV",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8"
     },
-    {
-      "file": "http://74.91.26.218:82/live/cctv16hd.m3u8",
-      "title": "CCTV-16 HD (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "canalshowsport720p",
+        "name": "Canal Showsport (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8"
     },
-    {
-      "file": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
-      "title": "CCTV-Billiards (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "canalsport2sk",
+        "name": "Canal+ Sport 2 SK",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0"
     },
-    {
-      "file": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
-      "title": "CCTV-Golf & Tennis (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "canalsport3sk",
+        "name": "Canal+ Sport 3 SK",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0"
     },
-    {
-      "file": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
-      "title": "CCTV-Storm Football (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "canalsport4sk",
+        "name": "Canal+ Sport 4 SK",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0"
     },
-    {
-      "file": "https://hls.tvabierta.net/hls/036.m3u8",
-      "title": "CDN Deportes (720p) [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "canalsport5sk",
+        "name": "Canal+ Sport 5 SK",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0"
     },
-    {
-      "file": "http://168.196.127.137:6001/play/a08r/index.m3u8",
-      "title": "Claro Sports (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "canalsport6sk",
+        "name": "Canal+ Sport 6 SK",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0"
     },
-    {
-      "file": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
-      "title": "Colimdo TV (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "canalsport7sk",
+        "name": "Canal+ Sport 7 SK",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0"
     },
-    {
-      "file": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
-      "title": "Cricket Gold (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "canalsport8sk",
+        "name": "Canal+ Sport 8 SK",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0"
     },
-    {
-      "file": "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8",
-      "title": "CRTV (Chile) (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "canalsport1080pgeoblocked",
+        "name": "Canal+ Sport (1080p) [Geo-blocked]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8"
     },
-    {
-      "file": "https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8",
-      "title": "CRTV Sports and Entertainment SD (360p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "canalsportsk",
+        "name": "Canal+ Sport SK",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0"
     },
-    {
-      "file": "http://88.212.15.17/live/test_ctsport_25p/playlist.m3u8",
-      "title": "CT Sport (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "cbssportsgolazonetwork720p",
+        "name": "CBS Sports Golazo Network (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8",
-      "title": "DAZN Combat (684p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "cbssportshq720p",
+        "name": "CBS Sports HQ (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8"
     },
-    {
-      "file": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-      "title": "DD Sports (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "cctv16hd1080p",
+        "name": "CCTV-16 HD (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://74.91.26.218:82/live/cctv16hd.m3u8"
     },
-    {
-      "file": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
-      "title": "DD Sports HD (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "cctvbilliards1080p",
+        "name": "CCTV-Billiards (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub"
     },
-    {
-      "file": "http://158.172.155.130:8000/play/a09y/index.m3u8",
-      "title": "DeporTV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "cctvgolftennis1080p",
+        "name": "CCTV-Golf & Tennis (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub"
     },
-    {
-      "file": "http://stream.mcquack.net/457/index.m3u8",
-      "title": "DiviSport (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "cctvstormfootball1080p",
+        "name": "CCTV-Storm Football (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub"
     },
-    {
-      "file": "https://freem3u.xyz/api/live/play.m3u8?vid=255",
-      "title": "Dong Nai TV 2 (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "cdndeportes720pnot247",
+        "name": "CDN Deportes (720p) [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://hls.tvabierta.net/hls/036.m3u8"
     },
-    {
-      "file": "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8",
-      "title": "DraftKings Network (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "clarosports1080p",
+        "name": "Claro Sports (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://168.196.127.137:6001/play/a08r/index.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/396/index.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Dynamo Kyiv TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "colimdotv720p",
+        "name": "Colimdo TV (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
     },
-    {
-      "file": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
-      "title": "El-Heddaf TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "cricketgold1080p",
+        "name": "Cricket Gold (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
     },
-    {
-      "file": "http://92.114.85.87:8002/play/a00e/index.m3u8",
-      "title": "Eleven Sports 1",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "crtvchile720p",
+        "name": "CRTV (Chile) (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8"
     },
-    {
-      "file": "http://92.114.85.87:8002/play/a00f/index.m3u8",
-      "title": "Eleven Sports 2 (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "crtvsportsandentertainmentsd360p",
+        "name": "CRTV Sports and Entertainment SD (360p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8"
     },
-    {
-      "file": "http://92.114.85.87:8002/play/a00g/index.m3u8",
-      "title": "Eleven Sports 3 (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "ctsport720p",
+        "name": "CT Sport (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/test_ctsport_25p/playlist.m3u8"
     },
-    {
-      "file": "http://92.114.85.87:8002/play/a00h/index.m3u8",
-      "title": "Eleven Sports 4 (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "dazncombat684p",
+        "name": "DAZN Combat (684p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/485/index.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Equalympic (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "ddsports1080p",
+        "name": "DD Sports (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
     },
-    {
-      "file": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
-      "title": "Equidia (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "ddsportshd720p",
+        "name": "DD Sports HD (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
     },
-    {
-      "file": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
-      "title": "ESPN 2 (United States) HD (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "deportv1080p",
+        "name": "DeporTV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://158.172.155.130:8000/play/a09y/index.m3u8"
     },
-    {
-      "file": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
-      "title": "ESPN 2 Latin America (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "divisport1080p",
+        "name": "DiviSport (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/457/index.m3u8"
     },
-    {
-      "file": "http://190.61.47.54:8000/play/a005/index.m3u8",
-      "title": "ESPN 2 Latin America Colombia (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "dongnaitv21080p",
+        "name": "Dong Nai TV 2 (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=255"
     },
-    {
-      "file": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
-      "title": "ESPN 3 Latin America (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "draftkingsnetwork1080p",
+        "name": "DraftKings Network (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8"
     },
-    {
-      "file": "http://181.78.197.59:8000/play/a07n/index.m3u8",
-      "title": "ESPN 4 (Brazil) (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari53736",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/396/index.m3u8"
     },
-    {
-      "file": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
-      "title": "ESPN 4 Latin America (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "elheddaftv1080p",
+        "name": "El-Heddaf TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8"
     },
-    {
-      "file": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
-      "title": "ESPN 5 Latin America (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "elevensports1",
+        "name": "Eleven Sports 1",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://92.114.85.87:8002/play/a00e/index.m3u8"
     },
-    {
-      "file": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
-      "title": "ESPN 6 Latin America (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "elevensports21080p",
+        "name": "Eleven Sports 2 (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://92.114.85.87:8002/play/a00f/index.m3u8"
     },
-    {
-      "file": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
-      "title": "ESPN 7 Latin America (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "elevensports31080p",
+        "name": "Eleven Sports 3 (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://92.114.85.87:8002/play/a00g/index.m3u8"
     },
-    {
-      "file": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
-      "title": "ESPN8: The Ocho (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "elevensports41080p",
+        "name": "Eleven Sports 4 (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://92.114.85.87:8002/play/a00h/index.m3u8"
     },
-    {
-      "file": "http://181.78.197.59:8000/play/a07z/index.m3u8",
-      "title": "ESPN (Brazil) (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari53736",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/485/index.m3u8"
     },
-    {
-      "file": "http://tvsen7.aynascope.net/espn/index.m3u8",
-      "title": "ESPN (United States) (432p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "equidia1080p",
+        "name": "Equidia (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8"
     },
-    {
-      "file": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
-      "title": "ESPN (United States) HD (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espn2unitedstateshd720p",
+        "name": "ESPN 2 (United States) HD (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
     },
-    {
-      "file": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?",
-      "title": "like Gecko) Chrome/145.0.0.0 Safari/537.36\" group-title=\"Sports\",ESPN Extra Latin America (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espn2latinamerica1080p",
+        "name": "ESPN 2 Latin America (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8"
     },
-    {
-      "file": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
-      "title": "ESPN Latin America (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espn2latinamericacolombia1080p",
+        "name": "ESPN 2 Latin America Colombia (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://190.61.47.54:8000/play/a005/index.m3u8"
     },
-    {
-      "file": "http://190.61.47.54:8000/play/a004/index.m3u8",
-      "title": "ESPN Latin America Colombia (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espn3latinamerica1080p",
+        "name": "ESPN 3 Latin America (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8"
     },
-    {
-      "file": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
-      "title": "ESPNU HD (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espn4brazil1080p",
+        "name": "ESPN 4 (Brazil) (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://181.78.197.59:8000/play/a07n/index.m3u8"
     },
-    {
-      "file": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "title": "Esport3 Originals (1080p) [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espn4latinamerica1080p",
+        "name": "ESPN 4 Latin America (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8"
     },
-    {
-      "file": "http://88.212.15.17/live/esp1_hun/index.m3u8",
-      "title": "Eurosport 1 Hungary",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espn5latinamerica1080p",
+        "name": "ESPN 5 Latin America (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8"
     },
-    {
-      "file": "http://88.212.15.17/live/esp2_hun/index.m3u8",
-      "title": "Eurosport 2 Hungary",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espn6latinamerica1080p",
+        "name": "ESPN 6 Latin America (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8"
     },
-    {
-      "file": "http://88.212.15.17/live/esp_4k_atk/playlist.m3u8",
-      "title": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Eurosport 4K Czechia",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espn7latinamerica1080p",
+        "name": "ESPN 7 Latin America (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8"
     },
-    {
-      "file": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8",
-      "title": "Eurosport (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espn8theocho1080p",
+        "name": "ESPN8: The Ocho (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8"
     },
-    {
-      "file": "https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8",
-      "title": "Fast&FunBox",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espnbrazil1080p",
+        "name": "ESPN (Brazil) (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://181.78.197.59:8000/play/a07z/index.m3u8"
     },
-    {
-      "file": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
-      "title": "FB TV",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espnunitedstates432p",
+        "name": "ESPN (United States) (432p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://tvsen7.aynascope.net/espn/index.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8",
-      "title": "FCK Lovinderne",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espnunitedstateshd720p",
+        "name": "ESPN (United States) HD (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8",
-      "title": "FIFA+ (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome145000safari53736",
+        "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?"
     },
-    {
-      "file": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
-      "title": "FIFA+ French (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espnlatinamerica1080p",
+        "name": "ESPN Latin America (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8"
     },
-    {
-      "file": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
-      "title": "FIFA+ German (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espnlatinamericacolombia1080p",
+        "name": "ESPN Latin America Colombia (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://190.61.47.54:8000/play/a004/index.m3u8"
     },
-    {
-      "file": "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8",
-      "title": "FIFA+ Hispanic America (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "espnuhd720p",
+        "name": "ESPNU HD (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8"
     },
-    {
-      "file": "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8",
-      "title": "FIFA+ Italy (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "esport3originals1080pnot247",
+        "name": "Esport3 Originals (1080p) [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
     },
-    {
-      "file": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8",
-      "title": "FIFA+ Portuguese (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "eurosport1hungary",
+        "name": "Eurosport 1 Hungary",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/esp1_hun/index.m3u8"
     },
-    {
-      "file": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
-      "title": "FIFA+ Spain (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "eurosport2hungary",
+        "name": "Eurosport 2 Hungary",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/esp2_hun/index.m3u8"
     },
-    {
-      "file": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
-      "title": "FIFA+ United States (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome130000safari53736",
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/esp_4k_atk/playlist.m3u8"
     },
-    {
-      "file": "https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8",
-      "title": "FIFA+ Women (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "eurosport720p",
+        "name": "Eurosport (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8"
     },
-    {
-      "file": "https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8",
-      "title": "FightBox HD",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fastfunbox",
+        "name": "Fast&FunBox",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8"
     },
-    {
-      "file": "http://92.114.85.87:8003/play/a00b/index.m3u8",
-      "title": "FightBox Poland (576i)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fbtv",
+        "name": "FB TV",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
     },
-    {
-      "file": "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8",
-      "title": "FITE 24/7 (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fcklovinderne",
+        "name": "FCK Lovinderne",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8"
     },
-    {
-      "file": "https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8",
-      "title": "FloHockey (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fifa720p",
+        "name": "FIFA+ (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8"
     },
-    {
-      "file": "https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8",
-      "title": "FloRacing (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fifafrench720p",
+        "name": "FIFA+ French (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8"
     },
-    {
-      "file": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8",
-      "title": "Formula 1 AntenaPlay (576p) [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fifagerman720p",
+        "name": "FIFA+ German (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8"
     },
-    {
-      "file": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
-      "title": "Fox Sports 1 (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fifahispanicamerica720p",
+        "name": "FIFA+ Hispanic America (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8"
     },
-    {
-      "file": "http://138.59.227.20:8000/play/a085/index.m3u8",
-      "title": "Fox Sports (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fifaitaly720p",
+        "name": "FIFA+ Italy (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8"
     },
-    {
-      "file": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8",
-      "title": "Fox Sports News (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fifaportuguese720p",
+        "name": "FIFA+ Portuguese (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8"
     },
-    {
-      "file": "https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8",
-      "title": "FTF Sports (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fifaspain720p",
+        "name": "FIFA+ Spain (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8"
     },
-    {
-      "file": "https://master.tucableip.com/ftvhd/index.m3u8",
-      "title": "FTV (Bolivia) (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fifaunitedstates720p",
+        "name": "FIFA+ United States (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8"
     },
-    {
-      "file": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8",
-      "title": "Fubo Sports Network (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fifawomen720p",
+        "name": "FIFA+ Women (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8"
     },
-    {
-      "file": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
-      "title": "FUEL TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fightboxhd",
+        "name": "FightBox HD",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8"
     },
-    {
-      "file": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
-      "title": "FUEL TV AU (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fightboxpoland576i",
+        "name": "FightBox Poland (576i)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://92.114.85.87:8003/play/a00b/index.m3u8"
     },
-    {
-      "file": "http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8",
-      "title": "Futbol TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fite2471080p",
+        "name": "FITE 24/7 (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8"
     },
-    {
-      "file": "http://190.61.90.17:40000/play/a03v/index.m3u8",
-      "title": "FUTV",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "flohockey1080p",
+        "name": "FloHockey (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8"
     },
-    {
-      "file": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8",
-      "title": "Game+ (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "floracing1080p",
+        "name": "FloRacing (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8"
     },
-    {
-      "file": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
-      "title": "Glory Kickboxing Poland (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "formula1antenaplay576pnot247",
+        "name": "Formula 1 AntenaPlay (576p) [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/416/index.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Go3 Sport 1 (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "foxsports1720p",
+        "name": "Fox Sports 1 (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8",
-      "title": "Golazo Network (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "foxsports1080p",
+        "name": "Fox Sports (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://138.59.227.20:8000/play/a085/index.m3u8"
     },
-    {
-      "file": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
-      "title": "Golf + (1080p) [Geo-blocked]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "foxsportsnews1080p",
+        "name": "Fox Sports News (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8"
     },
-    {
-      "file": "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8",
-      "title": "Golf Channel",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "ftfsports720p",
+        "name": "FTF Sports (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8"
     },
-    {
-      "file": "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8",
-      "title": "Horse TV (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "ftvbolivia720p",
+        "name": "FTV (Bolivia) (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://master.tucableip.com/ftvhd/index.m3u8"
     },
-    {
-      "file": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
-      "title": "HTSpor TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fubosportsnetwork1080p",
+        "name": "Fubo Sports Network (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8"
     },
-    {
-      "file": "https://dethich.pw/htvthethao/index.m3u8",
-      "title": "HTV Sports",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fueltv1080p",
+        "name": "FUEL TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
     },
-    {
-      "file": "https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8",
-      "title": "Inter TV (Italy) (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "fueltvau1080p",
+        "name": "FUEL TV AU (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8"
     },
-    {
-      "file": "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8",
-      "title": "InTrouble (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "futboltv1080p",
+        "name": "Futbol TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8"
     },
-    {
-      "file": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
-      "title": "IRIB 3",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "futv",
+        "name": "FUTV",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://190.61.90.17:40000/play/a03v/index.m3u8"
     },
-    {
-      "file": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
-      "title": "ITV Deportes (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "game720p",
+        "name": "Game+ (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
     },
-    {
-      "file": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
-      "title": "Jordan Sport (1080p) [Geo-blocked]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "glorykickboxingpoland720p",
+        "name": "Glory Kickboxing Poland (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8"
     },
-    {
-      "file": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
-      "title": "Kozoom TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari53736",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/416/index.m3u8"
     },
-    {
-      "file": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-      "title": "KTV Sport (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "golazonetwork720p",
+        "name": "Golazo Network (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8"
     },
-    {
-      "file": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
-      "title": "KTV Sport Plus (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "golf1080pgeoblocked",
+        "name": "Golf + (1080p) [Geo-blocked]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8"
     },
-    {
-      "file": "http://190.93.224.42/LIGA-1-MAX/index.m3u8",
-      "title": "L1 Max (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "golfchannel",
+        "name": "Golf Channel",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8"
     },
-    {
-      "file": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
-      "title": "like Gecko) Chrome/133.0.0.0 Safari/537.36\" group-title=\"Sports\",L'Equipe (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "horsetv720p",
+        "name": "Horse TV (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
     },
-    {
-      "file": "https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8",
-      "title": "Lacrosse TV (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "htsportv1080p",
+        "name": "HTSpor TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web"
     },
-    {
-      "file": "http://stream.mcquack.net/353/index.m3u8",
-      "title": "LRT Plius (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "htvsports",
+        "name": "HTV Sports",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://dethich.pw/htvthethao/index.m3u8"
     },
-    {
-      "file": "http://88.212.15.17/live/uatlmvixrr/index.m3u8",
-      "title": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",M4 Sport (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "intertvitaly1080p",
+        "name": "Inter TV (Italy) (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8"
     },
-    {
-      "file": "https://cdn.rabta.stream/M-Sports/index.m3u8",
-      "title": "M Sports (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "introuble1080p",
+        "name": "InTrouble (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8"
     },
-    {
-      "file": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
-      "title": "M-Net Sport (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "irib3",
+        "name": "IRIB 3",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8"
     },
-    {
-      "file": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8",
-      "title": "MadeinBO TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "itvdeportes720p",
+        "name": "ITV Deportes (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/487/index.m3u8",
-      "title": "Maincast Cybersport (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "jordansport1080pgeoblocked",
+        "name": "Jordan Sport (1080p) [Geo-blocked]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/490/index.m3u8",
-      "title": "Maincast Sport (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "kozoomtv1080p",
+        "name": "Kozoom TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8"
     },
-    {
-      "file": "http://141.94.193.53:80/Match4_HD/index.m3u8",
-      "title": "Match4 (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "ktvsport1080p",
+        "name": "KTV Sport (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/112/index.m3u8",
-      "title": "Match! Boets (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "ktvsportplus1080p",
+        "name": "KTV Sport Plus (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
     },
-    {
-      "file": "http://31.148.5.241/kanal_3/index.m3u8",
-      "title": "Match! Ultra (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "l1max1080p",
+        "name": "L1 Max (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://190.93.224.42/LIGA-1-MAX/index.m3u8"
     },
-    {
-      "file": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
-      "title": "Meridiano TV (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome133000safari53736",
+        "name": "like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8",
-      "title": "MLB (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "lacrossetv720p",
+        "name": "Lacrosse TV (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8"
     },
-    {
-      "file": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "title": "MLB Strike Zone (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "lrtplius1080p",
+        "name": "LRT Plius (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/353/index.m3u8"
     },
-    {
-      "file": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
-      "title": "MMA-TV.com (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome120000safari53736",
+        "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/uatlmvixrr/index.m3u8"
     },
-    {
-      "file": "https://live.mnb.mn/hls/mnb_sport.stream.m3u8",
-      "title": "MNB Sport (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "msports1080p",
+        "name": "M Sports (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://cdn.rabta.stream/M-Sports/index.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8",
-      "title": "Monster Jam (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "mnetsport720p",
+        "name": "M-Net Sport (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://ares.mnet.mk/hls/mnet-sport.m3u8"
     },
-    {
-      "file": "https://h.jcp.live.opencaster.com/play_src/index.m3u8",
-      "title": "Monterrico TV",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "madeinbotv1080p",
+        "name": "MadeinBO TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
     },
-    {
-      "file": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
-      "title": "More Than Sports TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "maincastcybersport1080p",
+        "name": "Maincast Cybersport (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/487/index.m3u8"
     },
-    {
-      "file": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
-      "title": "MUTV (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "maincastsport1080p",
+        "name": "Maincast Sport (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/490/index.m3u8"
     },
-    {
-      "file": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
-      "title": "Nautical Channel (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "match41080p",
+        "name": "Match4 (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://141.94.193.53:80/Match4_HD/index.m3u8"
     },
-    {
-      "file": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
-      "title": "NBA TV (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "matchboets576p",
+        "name": "Match! Boets (576p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/112/index.m3u8"
     },
-    {
-      "file": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008",
-      "title": "NBC Sports NOW (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "matchultra1080p",
+        "name": "Match! Ultra (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://31.148.5.241/kanal_3/index.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8",
-      "title": "NFL Channel (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "meridianotv576p",
+        "name": "Meridiano TV (576p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://181.78.8.199:8000/play/a0fr/index.m3u8"
     },
-    {
-      "file": "http://198.58.104.90:8989/nfl/index.m3u8",
-      "title": "NFL Network (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "mlb720p",
+        "name": "MLB (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8"
     },
-    {
-      "file": "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8",
-      "title": "NHL AntenaPlay",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "mlbstrikezone720p",
+        "name": "MLB Strike Zone (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8"
     },
-    {
-      "file": "https://nhl-firetv.amagi.tv/playlist.m3u8",
-      "title": "NHL Network (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "mmatvcom1080p",
+        "name": "MMA-TV.com (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
     },
-    {
-      "file": "https://d265y4sk8257lt.cloudfront.net/nh.m3u8",
-      "title": "NHRA TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "mnbsport1080p",
+        "name": "MNB Sport (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
     },
-    {
-      "file": "http://178.124.179.122:8080/Setanta1/index.m3u8",
-      "title": "Okko Futbol (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "monsterjam720p",
+        "name": "Monster Jam (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8"
     },
-    {
-      "file": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-      "title": "Oman Sports TV (1080p) [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "monterricotv",
+        "name": "Monterrico TV",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://h.jcp.live.opencaster.com/play_src/index.m3u8"
     },
-    {
-      "file": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
-      "title": "Ovacion TV (720p) [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "morethansportstv1080p",
+        "name": "More Than Sports TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
     },
-    {
-      "file": "https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8",
-      "title": "Overtime (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "mutv720p",
+        "name": "MUTV (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8"
     },
-    {
-      "file": "https://pac12-firetv.amagi.tv/playlist.m3u8",
-      "title": "Pac-12 Insider (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "nauticalchannel720p",
+        "name": "Nautical Channel (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8",
-      "title": "PBR RidePass (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "nbatv720p",
+        "name": "NBA TV (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://23.237.104.106:8080/USA_NBA/index.m3u8"
     },
-    {
-      "file": "https://fighthls.persiana.live/hls/stream.m3u8",
-      "title": "Persiana Fight",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "nbcsportsnow1080p",
+        "name": "NBC Sports NOW (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008"
     },
-    {
-      "file": "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8",
-      "title": "PFL MMA (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "nflchannel720p",
+        "name": "NFL Channel (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8"
     },
-    {
-      "file": "https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8",
-      "title": "PGA Tour (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "nflnetwork720p",
+        "name": "NFL Network (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://198.58.104.90:8989/nfl/index.m3u8"
     },
-    {
-      "file": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
-      "title": "PK Sports (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "nhlantenaplay",
+        "name": "NHL AntenaPlay",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8",
-      "title": "Pluto TV Competition",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "nhlnetwork1080p",
+        "name": "NHL Network (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://nhl-firetv.amagi.tv/playlist.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
-      "title": "Pluto TV Deportes",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "nhratv1080p",
+        "name": "NHRA TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d265y4sk8257lt.cloudfront.net/nh.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
-      "title": "Pluto TV E-Sports",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "okkofutbol576p",
+        "name": "Okko Futbol (576p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://178.124.179.122:8080/Setanta1/index.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
-      "title": "Pluto TV Esportes",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "omansportstv1080pnot247",
+        "name": "Oman Sports TV (1080p) [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8",
-      "title": "Pluto TV Fishing",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "ovaciontv720pnot247",
+        "name": "Ovacion TV (720p) [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8",
-      "title": "Pluto TV Handbold Highlights",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "overtime1080p",
+        "name": "Overtime (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8",
-      "title": "Pluto TV Handbold Live",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "pac12insider1080p",
+        "name": "Pac-12 Insider (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://pac12-firetv.amagi.tv/playlist.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8",
-      "title": "Pluto TV Handboll Highlights",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "pbrridepass720p",
+        "name": "PBR RidePass (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8",
-      "title": "Pluto TV Handboll Live",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "persianafight",
+        "name": "Persiana Fight",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://fighthls.persiana.live/hls/stream.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8",
-      "title": "Pluto TV Snooker 900 (Sweden) (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "pflmma720p",
+        "name": "PFL MMA (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8",
-      "title": "Pluto TV Snooker 900 (Sweden) DK (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "pgatour1080p",
+        "name": "PGA Tour (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8",
-      "title": "Pluto TV Snooker 900 (Sweden) NO (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "pksports720p",
+        "name": "PK Sports (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
-      "title": "Pluto TV Snooker 900 (United States)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvcompetition",
+        "name": "Pluto TV Competition",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8",
-      "title": "Pluto TV Sport (Germany)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvdeportes",
+        "name": "Pluto TV Deportes",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8",
-      "title": "Pluto TV Sport (Sweden)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvesports",
+        "name": "Pluto TV E-Sports",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8",
-      "title": "PokerGo",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvesportes",
+        "name": "Pluto TV Esportes",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8"
     },
-    {
-      "file": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0",
-      "title": "Prima Sport Czechia",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvfishing",
+        "name": "Pluto TV Fishing",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8"
     },
-    {
-      "file": "https://cdn.bestream.io/prime/prime.m3u8",
-      "title": "Prime (Syria) (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvhandboldhighlights",
+        "name": "Pluto TV Handbold Highlights",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8"
     },
-    {
-      "file": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
-      "title": "RACER International (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvhandboldlive",
+        "name": "Pluto TV Handbold Live",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8"
     },
-    {
-      "file": "https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8",
-      "title": "Racer Select (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvhandbollhighlights",
+        "name": "Pluto TV Handboll Highlights",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8"
     },
-    {
-      "file": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8",
-      "title": "Rally TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvhandbolllive",
+        "name": "Pluto TV Handboll Live",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8"
     },
-    {
-      "file": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-      "title": "Real Madrid TV (726p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvsnooker900sweden720p",
+        "name": "Pluto TV Snooker 900 (Sweden) (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8"
     },
-    {
-      "file": "http://88.212.15.17/live/real_madrid_tv/index.m3u8",
-      "title": "Real Madrid TV English",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvsnooker900swedendk720p",
+        "name": "Pluto TV Snooker 900 (Sweden) DK (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8"
     },
-    {
-      "file": "https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8",
-      "title": "Realitatea Sportiva (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvsnooker900swedenno720p",
+        "name": "Pluto TV Snooker 900 (Sweden) NO (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8"
     },
-    {
-      "file": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
-      "title": "Red Bull TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvsnooker900unitedstates",
+        "name": "Pluto TV Snooker 900 (United States)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8"
     },
-    {
-      "file": "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8",
-      "title": "Red Bull TV AU (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvsportgermany",
+        "name": "Pluto TV Sport (Germany)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8"
     },
-    {
-      "file": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
-      "title": "Red Bull TV BR (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "plutotvsportsweden",
+        "name": "Pluto TV Sport (Sweden)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8"
     },
-    {
-      "file": "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8",
-      "title": "Red Bull TV DE (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "pokergo",
+        "name": "PokerGo",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8"
     },
-    {
-      "file": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
-      "title": "Red Bull TV ES (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "primasportczechia",
+        "name": "Prima Sport Czechia",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0"
     },
-    {
-      "file": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
-      "title": "Red Bull TV SD (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "primesyria1080p",
+        "name": "Prime (Syria) (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://cdn.bestream.io/prime/prime.m3u8"
     },
-    {
-      "file": "https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8",
-      "title": "Red Bull TV UK (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "racerinternational1080p",
+        "name": "RACER International (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8"
     },
-    {
-      "file": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8",
-      "title": "Red Bull TV US (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "racerselect1080p",
+        "name": "Racer Select (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8"
     },
-    {
-      "file": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
-      "title": "Right Now TV (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "rallytv1080p",
+        "name": "Rally TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8"
     },
-    {
-      "file": "http://46.53.200.153:7777/play/test_krask1/index.m3u8",
-      "title": "Russian Extreme Ultra (1440p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "realmadridtv726p",
+        "name": "Real Madrid TV (726p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
     },
-    {
-      "file": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8",
-      "title": "San Marino RTV Sport (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "realmadridtvenglish",
+        "name": "Real Madrid TV English",
+        "category": "Sports",
+        "language": "English",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/real_madrid_tv/index.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/234/index.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 1 Eurasia (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "realitateasportiva720p",
+        "name": "Realitatea Sportiva (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/235/index.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 2 Eurasia (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "redbulltv1080p",
+        "name": "Red Bull TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
     },
-    {
-      "file": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8",
-      "title": "Sky Racing 1 (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "redbulltvau1080p",
+        "name": "Red Bull TV AU (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8"
     },
-    {
-      "file": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241",
-      "title": "Slopes TV (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "redbulltvbr1080p",
+        "name": "Red Bull TV BR (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
     },
-    {
-      "file": "http://103.151.60.162:2122/play/a01c/index.m3u8?hls",
-      "title": "Sony Sports Ten 1 (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "redbulltvde1080p",
+        "name": "Red Bull TV DE (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8"
     },
-    {
-      "file": "http://103.185.24.134:3001/SonyTenSports1/index.m3u8",
-      "title": "Sony Sports Ten 1 HD (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "redbulltves1080p",
+        "name": "Red Bull TV ES (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8"
     },
-    {
-      "file": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls",
-      "title": "Sony Sports Ten 2 (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "redbulltvsd1080p",
+        "name": "Red Bull TV SD (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
     },
-    {
-      "file": "http://103.151.60.162:2122/play/a01t/index.m3u8?hls",
-      "title": "Sony Sports Ten 3 Hindi (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "redbulltvuk1080p",
+        "name": "Red Bull TV UK (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8"
     },
-    {
-      "file": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
-      "title": "Sony Sports Ten 5 (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "redbulltvus1080p",
+        "name": "Red Bull TV US (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8"
     },
-    {
-      "file": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8",
-      "title": "SOS Kanal Plus (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "rightnowtv720p",
+        "name": "Right Now TV (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8"
     },
-    {
-      "file": "http://88.212.15.17/live/spiler1/index.m3u8",
-      "title": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Spiler 1",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "russianextremeultra1440p",
+        "name": "Russian Extreme Ultra (1440p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://46.53.200.153:7777/play/test_krask1/index.m3u8"
     },
-    {
-      "file": "http://88.212.15.17/live/spiler2/index.m3u8",
-      "title": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Spiler 2",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sanmarinortvsport720p",
+        "name": "San Marino RTV Sport (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8"
     },
-    {
-      "file": "http://88.212.15.17/live/test_sport1_25p/playlist.m3u8",
-      "title": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport1",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari53736",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/234/index.m3u8"
     },
-    {
-      "file": "http://88.212.15.17/live/sport1_hun/index.m3u8",
-      "title": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 1 (Hungary)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari53736",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/235/index.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/391/index.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 1 (Ukraine) (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "skyracing1720p",
+        "name": "Sky Racing 1 (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/461/index.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 1 Baltic (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "slopestv720p",
+        "name": "Slopes TV (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241"
     },
-    {
-      "file": "http://88.212.15.17/live/test_sport_2/playlist.m3u8",
-      "title": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport2",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sonysportsten1576p",
+        "name": "Sony Sports Ten 1 (576p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://103.151.60.162:2122/play/a01c/index.m3u8?hls"
     },
-    {
-      "file": "http://88.212.15.17/live/sport2_hun/index.m3u8",
-      "title": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 2 (Hungary)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sonysportsten1hd1080p",
+        "name": "Sony Sports Ten 1 HD (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://103.185.24.134:3001/SonyTenSports1/index.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/392/index.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 2 (Ukraine) (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sonysportsten2576p",
+        "name": "Sony Sports Ten 2 (576p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls"
     },
-    {
-      "file": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8",
-      "title": "Sport 3 (Israel) (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sonysportsten3hindi576p",
+        "name": "Sony Sports Ten 3 Hindi (576p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://103.151.60.162:2122/play/a01t/index.m3u8?hls"
     },
-    {
-      "file": "http://stream.mcquack.net/393/index.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 3 (Ukraine) (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sonysportsten5576p",
+        "name": "Sony Sports Ten 5 (576p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://103.151.60.162:2122/play/a028/index.m3u8?hls"
     },
-    {
-      "file": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8",
-      "title": "Sport 4 (Israel) (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "soskanalplus720p",
+        "name": "SOS Kanal Plus (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/394/index.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 4 (Ukraine) (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome130000safari53736",
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/spiler1/index.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/212/index.m3u8",
-      "title": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 5 (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome130000safari53736",
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/spiler2/index.m3u8"
     },
-    {
-      "file": "http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8",
-      "title": "Sport (Slovakia) (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome124000safari53736",
+        "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/test_sport1_25p/playlist.m3u8"
     },
-    {
-      "file": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
-      "title": "Sport (Uzbekistan)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome120000safari53736",
+        "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/sport1_hun/index.m3u8"
     },
-    {
-      "file": "http://178.124.179.122:8080/SportTV/mpegts",
-      "title": "Sport TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari53736",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/391/index.m3u8"
     },
-    {
-      "file": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8",
-      "title": "Sportitalia (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari53736",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/461/index.m3u8"
     },
-    {
-      "file": "https://live-3.otcnet.ru/sportivny/index.m3u8",
-      "title": "Sportivnyy (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome124000safari53736",
+        "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/test_sport_2/playlist.m3u8"
     },
-    {
-      "file": "https://live.koryocdn.org/sports/index.m3u8",
-      "title": "Sports Television (720p) [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome120000safari53736",
+        "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/sport2_hun/index.m3u8"
     },
-    {
-      "file": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
-      "title": "SportsGrid (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari53736",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/392/index.m3u8"
     },
-    {
-      "file": "https://dash2.antik.sk/live/sporty_tv/index.m3u8",
-      "title": "Sporty TV",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sport3israel1080p",
+        "name": "Sport 3 (Israel) (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8"
     },
-    {
-      "file": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
-      "title": "Sqala TV (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari53736",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/393/index.m3u8"
     },
-    {
-      "file": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
-      "title": "Stadium (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sport4israel1080p",
+        "name": "Sport 4 (Israel) (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8"
     },
-    {
-      "file": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls",
-      "title": "Star Sports 2 (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari53736",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/394/index.m3u8"
     },
-    {
-      "file": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
-      "title": "Star Sports 2 Telugu HD (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome130000safari53736",
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/212/index.m3u8"
     },
-    {
-      "file": "http://103.151.60.162:2122/play/a026/index.m3u8?hls",
-      "title": "Star Sports Select 1 HD (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sportslovakia1080p",
+        "name": "Sport (Slovakia) (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8"
     },
-    {
-      "file": "http://103.151.60.162:2122/play/a027/index.m3u8?hls",
-      "title": "Star Sports Select 2 HD (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sportuzbekistan",
+        "name": "Sport (Uzbekistan)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8"
     },
-    {
-      "file": "https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8",
-      "title": "Strongman (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sporttv1080p",
+        "name": "Sport TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://178.124.179.122:8080/SportTV/mpegts"
     },
-    {
-      "file": "https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8",
-      "title": "Strongman UK (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sportitalia1080p",
+        "name": "Sportitalia (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
     },
-    {
-      "file": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
-      "title": "Strongman Champions League (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sportivnyy1080p",
+        "name": "Sportivnyy (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://live-3.otcnet.ru/sportivny/index.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/444/index.m3u8",
-      "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Suspilne. Sport (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sportstelevision720pnot247",
+        "name": "Sports Television (720p) [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://live.koryocdn.org/sports/index.m3u8"
     },
-    {
-      "file": "https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8",
-      "title": "Swerve Combat (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sportsgrid1080p",
+        "name": "SportsGrid (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8"
     },
-    {
-      "file": "https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8",
-      "title": "Swerve Sports (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sportytv",
+        "name": "Sporty TV",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://dash2.antik.sk/live/sporty_tv/index.m3u8"
     },
-    {
-      "file": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8",
-      "title": "T Sports 7",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "sqalatv720p",
+        "name": "Sqala TV (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8"
     },
-    {
-      "file": "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8",
-      "title": "Talent TV (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "stadium720p",
+        "name": "Stadium (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8"
     },
-    {
-      "file": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8",
-      "title": "talkSPORT (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "starsports2576p",
+        "name": "Star Sports 2 (576p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls"
     },
-    {
-      "file": "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8",
-      "title": "Teledeporte",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "starsports2teluguhd576p",
+        "name": "Star Sports 2 Telugu HD (576p)",
+        "category": "Sports",
+        "language": "Telugu",
+        "logo": "",
+        "streamUrl": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
     },
-    {
-      "file": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
-      "title": "Teletrak TV (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "starsportsselect1hd1080p",
+        "name": "Star Sports Select 1 HD (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://103.151.60.162:2122/play/a026/index.m3u8?hls"
     },
-    {
-      "file": "http://103.151.60.162:2122/play/a0fj/index.m3u8?hls",
-      "title": "Ten Cricket (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "starsportsselect2hd1080p",
+        "name": "Star Sports Select 2 HD (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://103.151.60.162:2122/play/a027/index.m3u8?hls"
     },
-    {
-      "file": "https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8",
-      "title": "Tennis Channel 2 (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "strongman720p",
+        "name": "Strongman (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8"
     },
-    {
-      "file": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-      "title": "Tennis Channel (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "strongmanuk720p",
+        "name": "Strongman UK (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
-      "title": "Tennis Channel +2 (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "strongmanchampionsleague720p",
+        "name": "Strongman Champions League (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8"
     },
-    {
-      "file": "http://168.196.127.137:6001/play/a0ay/index.m3u8",
-      "title": "Tigo Sports (Honduras) (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "likegeckochrome149000safari53736",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/444/index.m3u8"
     },
-    {
-      "file": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
-      "title": "Tigo Sports (Paraguay)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "swervecombat1080p",
+        "name": "Swerve Combat (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8"
     },
-    {
-      "file": "https://tjktv-live.tjk.org/tjktv.m3u8",
-      "title": "TJK TV (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "swervesports720p",
+        "name": "Swerve Sports (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8"
     },
-    {
-      "file": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
-      "title": "Tour Spot TV (1280p) [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tsports7",
+        "name": "T Sports 7",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8"
     },
-    {
-      "file": "https://livetr.teleromagna.it/mia/live/playlist.m3u8",
-      "title": "TR Sport (480p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "talenttv720p",
+        "name": "Talent TV (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8"
     },
-    {
-      "file": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
-      "title": "Trace Sport Stars (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "talksport1080p",
+        "name": "talkSPORT (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8"
     },
-    {
-      "file": "https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8",
-      "title": "Trace Sport Stars Russia (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "teledeporte",
+        "name": "Teledeporte",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8"
     },
-    {
-      "file": "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8",
-      "title": "Trace Sport Stars SD",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "teletraktv720p",
+        "name": "Teletrak TV (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
     },
-    {
-      "file": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor",
-      "title": "TRT Spor Yildiz (1440p) [Geo-blocked]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tencricket576p",
+        "name": "Ten Cricket (576p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://103.151.60.162:2122/play/a0fj/index.m3u8?hls"
     },
-    {
-      "file": "http://109.104.153.220:80/TSN-4/index.m3u8",
-      "title": "TSN4 (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tennischannel21080p",
+        "name": "Tennis Channel 2 (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8"
     },
-    {
-      "file": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
-      "title": "TSN The Ocho (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tennischannel1080p",
+        "name": "Tennis Channel (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
     },
-    {
-      "file": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
-      "title": "Turf Movil (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tennischannel2720p",
+        "name": "Tennis Channel +2 (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8"
     },
-    {
-      "file": "https://alpha.tv.online.tm/hls/ch004.m3u8",
-      "title": "Turkmenistan Sport (406p) [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tigosportshonduras1080p",
+        "name": "Tigo Sports (Honduras) (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://168.196.127.137:6001/play/a0ay/index.m3u8"
     },
-    {
-      "file": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8",
-      "title": "TVR Sport",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tigosportsparaguay",
+        "name": "Tigo Sports (Paraguay)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8"
     },
-    {
-      "file": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
-      "title": "TyC Sports (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tjktv1080p",
+        "name": "TJK TV (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://tjktv-live.tjk.org/tjktv.m3u8"
     },
-    {
-      "file": "http://45.170.130.224:8000/play/a020/index.m3u8",
-      "title": "TyC Sports USA",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tourspottv1280pnot247",
+        "name": "Tour Spot TV (1280p) [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8"
     },
-    {
-      "file": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
-      "title": "Unbeaten (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "trsport480p",
+        "name": "TR Sport (480p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
     },
-    {
-      "file": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8",
-      "title": "V Sport Golf [Not 24/7]",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tracesportstars1080p",
+        "name": "Trace Sport Stars (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
     },
-    {
-      "file": "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
-      "title": "Varzesh TV",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tracesportstarsrussia720p",
+        "name": "Trace Sport Stars Russia (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8"
     },
-    {
-      "file": "http://stream.mcquack.net/333/index.m3u8",
-      "title": "viju+ Sport (576p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tracesportstarssd",
+        "name": "Trace Sport Stars SD",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8"
     },
-    {
-      "file": "http://46.53.200.153:7777/play/a01l/index.m3u8",
-      "title": "viju+ Sport HD (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "trtsporyildiz1440pgeoblocked",
+        "name": "TRT Spor Yildiz (1440p) [Geo-blocked]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor"
     },
-    {
-      "file": "https://dethich.pw/thvl4/index.m3u8",
-      "title": "Vinh Long TV 4 (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tsn4720p",
+        "name": "TSN4 (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://109.104.153.220:80/TSN-4/index.m3u8"
     },
-    {
-      "file": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-      "title": "Willow (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tsntheocho1080p",
+        "name": "TSN The Ocho (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8"
     },
-    {
-      "file": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
-      "title": "Willow Sports (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "turfmovil720p",
+        "name": "Turf Movil (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
     },
-    {
-      "file": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
-      "title": "Win Sports (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "turkmenistansport406pnot247",
+        "name": "Turkmenistan Sport (406p) [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://alpha.tv.online.tm/hls/ch004.m3u8"
     },
-    {
-      "file": "http://181.78.12.119:16123/play/ch19/index.m3u8",
-      "title": "Win+ Futbol (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tvrsport",
+        "name": "TVR Sport",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8"
     },
-    {
-      "file": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
-      "title": "World of Freesports (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tycsports1080p",
+        "name": "TyC Sports (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
     },
-    {
-      "file": "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8",
-      "title": "World Poker Tour (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "tycsportsusa",
+        "name": "TyC Sports USA",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://45.170.130.224:8000/play/a020/index.m3u8"
     },
-    {
-      "file": "https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8",
-      "title": "World Poker Tour Germany",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "unbeaten1080p",
+        "name": "Unbeaten (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8"
     },
-    {
-      "file": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102",
-      "title": "World Poker Tour Poland (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "vsportgolfnot247",
+        "name": "V Sport Golf [Not 24/7]",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8"
     },
-    {
-      "file": "https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8",
-      "title": "World Poker Tour UK (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "varzeshtv",
+        "name": "Varzesh TV",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8"
     },
-    {
-      "file": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls",
-      "title": "WWE Network (1080p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "vijusport576p",
+        "name": "viju+ Sport (576p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://stream.mcquack.net/333/index.m3u8"
     },
-    {
-      "file": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247",
-      "title": "XFC TV (720p)",
-      "duration": -1,
-      "artist": "",
-      "album": ""
+    {
+        "id": "vijusporthd1080p",
+        "name": "viju+ Sport HD (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://46.53.200.153:7777/play/a01l/index.m3u8"
+    },
+    {
+        "id": "vinhlongtv4720p",
+        "name": "Vinh Long TV 4 (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://dethich.pw/thvl4/index.m3u8"
+    },
+    {
+        "id": "willow720p",
+        "name": "Willow (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+    },
+    {
+        "id": "willowsports1080p",
+        "name": "Willow Sports (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+    },
+    {
+        "id": "winsports1080p",
+        "name": "Win Sports (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8"
+    },
+    {
+        "id": "winfutbol1080p",
+        "name": "Win+ Futbol (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://181.78.12.119:16123/play/ch19/index.m3u8"
+    },
+    {
+        "id": "worldoffreesports1080p",
+        "name": "World of Freesports (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
+    },
+    {
+        "id": "worldpokertour1080p",
+        "name": "World Poker Tour (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
+    },
+    {
+        "id": "worldpokertourgermany",
+        "name": "World Poker Tour Germany",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8"
+    },
+    {
+        "id": "worldpokertourpoland1080p",
+        "name": "World Poker Tour Poland (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102"
+    },
+    {
+        "id": "worldpokertouruk1080p",
+        "name": "World Poker Tour UK (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8"
+    },
+    {
+        "id": "wwenetwork1080p",
+        "name": "WWE Network (1080p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls"
+    },
+    {
+        "id": "xfctv720p",
+        "name": "XFC TV (720p)",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "",
+        "streamUrl": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247"
     }
-  ]
-}
+]

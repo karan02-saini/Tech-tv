@@ -17,9 +17,11 @@ async def fetch_live_events():
             await page.wait_for_load_state("networkidle")
             
             html_content = await page.content()
+            print(f"Page loaded successfully. HTML length: {len(html_content)}")
             
-            # Updated Regex: Ab ye /Fancodee/ ya kisi bhi folder ke andar ke play.html links ko bhi pakad lega
+            # Regex to find play links
             matches = re.findall(r'href=["\']([^"\']*play\.html\?[^"\']*)["\'][^>]*>(.*?)</a>', html_content, re.DOTALL)
+            print(f"Total matches found via regex: {len(matches)}")
             
             events_list = []
             for index, match in enumerate(matches):
@@ -32,7 +34,6 @@ async def fetch_live_events():
                 id_match = re.search(r'id=([a-zA-Z0-9_-]+)', relative_url)
                 stream_id = id_match.group(1) if id_match else f"match_{index}"
 
-                # Handle absolute vs relative URLs properly
                 if relative_url.startswith("http"):
                     web_url = relative_url
                 elif relative_url.startswith("/"):
@@ -51,14 +52,18 @@ async def fetch_live_events():
                 
                 if event_obj not in events_list:
                     events_list.append(event_obj)
-                
+            
+            print(f"Processed events list: {events_list}")
+            
             with open(EVENTS_JSON_PATH, 'w', encoding='utf-8') as f:
                 json.dump(events_list, f, indent=4)
                 
             print(f"Successfully generated {len(events_list)} live events in events.json.")
             
         except Exception as e:
-            print(f"Error fetching live events: {e}")
+            print(f"CRITICAL ERROR fetching live events: {e}")
+            # Write empty list so git knows file was touched if needed, or raise
+            raise e
         finally:
             await browser.close()
 

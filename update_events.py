@@ -1,58 +1,64 @@
-import urllib.request
+import asyncio
 import json
 import re
+from playwright.async_api import async_playwright
 
 PAGE_URL = "https://dekhobhai.pages.dev/"
 EVENTS_JSON_PATH = "events.json"
 
-def fetch_live_events():
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": PAGE_URL
-    }
-    
-    try:
-        print("Fetching live page content...")
-        req = urllib.request.Request(PAGE_URL, headers=headers)
-        with urllib.request.urlopen(req) as response:
-            html_content = response.read().decode('utf-8')
-            
-        # Updated and broader regex pattern to catch anchor links and titles
-        matches = re.findall(r'href=["\'](play\.html\?[^"\']+)["\'][^>]*>(.*?)</a>', html_content, re.DOTALL)
+async def fetch_live_events():
+    async with async_playwright() as p:
+        # Headless browser launch karna
+        browser = await p.chromium.launch(headless=True)
+        page = await browser.new_page()
         
-        events_list = []
-        for index, match in enumerate(matches):
-            relative_url, title_raw = match
-            clean_title = re.sub(r'<[^>]+>', '', title_raw).strip()
+        try:
+            print("Navigating to live page with Playwright...")
+            await page.goto(PAGE_URL, timeout=60000)
             
-            if not clean_title or "http" in clean_title:
-                clean_title = f"Live Match {index + 1}"
+            # Page ka JavaScript load hone ka wait karna
+            await page.wait_for_load_state("networkidle")
+            
+            # Poora rendered HTML uthana
+            html_content = await page.content()
+            
+            # Match links aur titles extract karne ke liye regex
+            matches = re.findall(r'href=["\'](play\.html\?[^"\']+)["\'][^>]*>(.*?)</a>', html_content, re.DOTALL)
+            
+            events_list = []
+            for index, match in enumerate(matches):
+                relative_url, title_raw = match
+                clean_title = re.sub(r'<[^>]+>', '', title_raw).strip()
+                
+                if not clean_title or "http" in clean_title:
+                    clean_title = f"Live Match {index + 1}"
 
-            # Extracting ID from query param if available
-            id_match = re.search(r'id=([a-zA-Z0-9_-]+)', relative_url)
-            stream_id = id_match.group(1) if id_match else f"match_{index}"
+                id_match = re.search(r'id=([a-zA-Z0-9_-]+)', relative_url)
+                stream_id = id_match.group(1) if id_match else f"match_{index}"
 
-            event_obj = {
-                "id": f"event_{stream_id}",
-                "title": clean_title,
-                "category": "Live Sports",
-                "webUrl": f"https://dekhobhai.pages.dev/{relative_url}" if not relative_url.startswith("http") else relative_url,
-                "streamUrl": "", 
-                "isLive": True
-            }
+                event_obj = {
+                    "id": f"event_{stream_id}",
+                    "title": clean_title,
+                    "category": "Live Sports",
+                    "webUrl": f"https://dekhobhai.pages.dev/{relative_url}" if not relative_url.startswith("http") else relative_url,
+                    "streamUrl": "", 
+                    "isLive": True
+                }
+                
+                if event_obj not in events_list:
+                    events_list.append(event_obj)
+                
+            with open(EVENTS_JSON_PATH, 'w', encoding='utf-8') as f:
+                json.dump(events_list, f, indent=4)
+                
+            print(f"Successfully generated {len(events_list)} live events in events.json.")
             
-            # Duplicate avoid karne ke liye check
-            if event_obj not in events_list:
-                events_list.append(event_obj)
-            
-        with open(EVENTS_JSON_PATH, 'w', encoding='utf-8') as f:
-            json.dump(events_list, f, indent=4)
-            
-        print(f"Successfully generated {len(events_list)} live events in events.json.")
-        
-    except Exception as e:
-        print(f"Error fetching live events: {e}")
+        except Exception as e:
+            print(f"Error fetching live events: {e}")
+            with open(EVENTS_JSON_PATH, 'w', encoding='utf-8') as f:
+                json.dump([], f, indent=4)
+        finally:
+            await browser.close()
 
 if __name__ == "__main__":
-    fetch_live_events()
-    
+    asyncio.run(fetch_live_events())

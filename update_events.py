@@ -8,22 +8,18 @@ EVENTS_JSON_PATH = "events.json"
 
 async def fetch_live_events():
     async with async_playwright() as p:
-        # Headless browser launch karna
         browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
         
         try:
             print("Navigating to live page with Playwright...")
             await page.goto(PAGE_URL, timeout=60000)
-            
-            # Page ka JavaScript load hone ka wait karna
             await page.wait_for_load_state("networkidle")
             
-            # Poora rendered HTML uthana
             html_content = await page.content()
             
-            # Match links aur titles extract karne ke liye regex
-            matches = re.findall(r'href=["\'](play\.html\?[^"\']+)["\'][^>]*>(.*?)</a>', html_content, re.DOTALL)
+            # Updated Regex: Ab ye /Fancodee/ ya kisi bhi folder ke andar ke play.html links ko bhi pakad lega
+            matches = re.findall(r'href=["\']([^"\']*play\.html\?[^"\']*)["\'][^>]*>(.*?)</a>', html_content, re.DOTALL)
             
             events_list = []
             for index, match in enumerate(matches):
@@ -36,11 +32,19 @@ async def fetch_live_events():
                 id_match = re.search(r'id=([a-zA-Z0-9_-]+)', relative_url)
                 stream_id = id_match.group(1) if id_match else f"match_{index}"
 
+                # Handle absolute vs relative URLs properly
+                if relative_url.startswith("http"):
+                    web_url = relative_url
+                elif relative_url.startswith("/"):
+                    web_url = f"https://dekhobhai.pages.dev{relative_url}"
+                else:
+                    web_url = f"https://dekhobhai.pages.dev/{relative_url}"
+
                 event_obj = {
                     "id": f"event_{stream_id}",
                     "title": clean_title,
                     "category": "Live Sports",
-                    "webUrl": f"https://dekhobhai.pages.dev/{relative_url}" if not relative_url.startswith("http") else relative_url,
+                    "webUrl": web_url,
                     "streamUrl": "", 
                     "isLive": True
                 }
@@ -55,8 +59,6 @@ async def fetch_live_events():
             
         except Exception as e:
             print(f"Error fetching live events: {e}")
-            with open(EVENTS_JSON_PATH, 'w', encoding='utf-8') as f:
-                json.dump([], f, indent=4)
         finally:
             await browser.close()
 

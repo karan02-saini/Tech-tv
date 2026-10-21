@@ -17,26 +17,33 @@ def fetch_live_events():
         with urllib.request.urlopen(req) as response:
             html_content = response.read().decode('utf-8')
             
-        # Matches aur link endpoints extract karne ke liye pattern
-        matches = re.findall(r'href=["\'](play\.html\?id=([a-zA-Z0-9_]+))["\'][^>]*>(.*?)</a>', html_content, re.DOTALL)
+        # Updated and broader regex pattern to catch anchor links and titles
+        matches = re.findall(r'href=["\'](play\.html\?[^"\']+)["\'][^>]*>(.*?)</a>', html_content, re.DOTALL)
         
         events_list = []
         for index, match in enumerate(matches):
-            relative_url, stream_id, title_raw = match
+            relative_url, title_raw = match
             clean_title = re.sub(r'<[^>]+>', '', title_raw).strip()
             
-            if not clean_title:
+            if not clean_title or "http" in clean_title:
                 clean_title = f"Live Match {index + 1}"
+
+            # Extracting ID from query param if available
+            id_match = re.search(r'id=([a-zA-Z0-9_-]+)', relative_url)
+            stream_id = id_match.group(1) if id_match else f"match_{index}"
 
             event_obj = {
                 "id": f"event_{stream_id}",
                 "title": clean_title,
                 "category": "Live Sports",
-                "webUrl": f"{PAGE_URL}{relative_url}",
+                "webUrl": f"https://dekhobhai.pages.dev/{relative_url}" if not relative_url.startswith("http") else relative_url,
                 "streamUrl": "", 
                 "isLive": True
             }
-            events_list.append(event_obj)
+            
+            # Duplicate avoid karne ke liye check
+            if event_obj not in events_list:
+                events_list.append(event_obj)
             
         with open(EVENTS_JSON_PATH, 'w', encoding='utf-8') as f:
             json.dump(events_list, f, indent=4)
@@ -48,3 +55,4 @@ def fetch_live_events():
 
 if __name__ == "__main__":
     fetch_live_events()
+    

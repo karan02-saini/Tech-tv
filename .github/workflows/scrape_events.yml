@@ -14,17 +14,14 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
-
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install playwright
-          playwright install --with-deps chromium
+          python-version: '3.x'
 
       - name: Run Scraper Script
         run: python update_events.py
@@ -33,7 +30,6 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git config --global pull.rebase false
           git add events.json
           git commit -m "Auto-update live events [skip ci]" || echo "No changes to commit"
           git push

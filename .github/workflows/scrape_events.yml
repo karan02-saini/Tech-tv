@@ -2,9 +2,11 @@ name: Auto Update Live Events
 
 on:
   schedule:
-    # Har 30 minute me automatically chalega
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Manual run karne ke liye
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   scrape-and-update:
@@ -16,15 +18,22 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          playwright install --with-deps chromium
 
       - name: Run Scraper Script
         run: python update_events.py
 
       - name: Commit and Push Updated events.json
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global pull.rebase false
           git add events.json
-          git commit -m "Auto-update live events" || exit 0
+          git commit -m "Auto-update live events [skip ci]" || echo "No changes to commit"
           git push

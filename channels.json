@@ -32,6 +32,14 @@
         "streamUrl": "https://cdn.pishow.tv/ott/live/1257/master.m3u8"
     },
     {
+        "name": "7X Music (360p)",
+        "id": "7xmusic360p",
+        "category": "Music",
+        "language": "Hindi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png",
+        "streamUrl": "https://cdn2.in/7xPunjabihls/live.m3u8"
+    },
+    {
         "name": "9 Plus News (1080p)",
         "id": "9plusnews1080p",
         "category": "News",
@@ -134,6 +142,14 @@
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png",
         "streamUrl": "https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8"
+    },
+    {
+        "name": "Aagaaz Times (1080p)",
+        "id": "aagaaztimes1080p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png",
+        "streamUrl": "https://live1.ottlive.co.in/aagaaztimes/index.m3u8"
     },
     {
         "name": "Aaj Ki Khabar (1080p)",
@@ -360,6 +376,14 @@
         "streamUrl": "https://amarujala.ottlive.co.in/amarujala/index.m3u8"
     },
     {
+        "name": "Amrit Gurbani (720p)",
+        "id": "amritgurbani720p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/Amritgurbani.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/AMRITGURBANI/SAMITAORIGIN/index.m3u8"
+    },
+    {
         "name": "Amrita TV (720p)",
         "id": "amritatv720p",
         "category": "Entertainment",
@@ -390,6 +414,14 @@
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Anand_Barta.png",
         "streamUrl": "https://account19.livebox.co.in/Anandabarta2hls/live.m3u8"
+    },
+    {
+        "name": "Anandpur Live (720p)",
+        "id": "anandpurlive720p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/Anandpur_Live.png",
+        "streamUrl": "https://mumt05.tangotv.in/87NeALx2ANANDPURLIVE/index.m3u8"
     },
     {
         "name": "ANB News (720p)",
@@ -448,6 +480,14 @@
         "streamUrl": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8"
     },
     {
+        "name": "Anmol TV (720p)",
+        "id": "anmoltv720p",
+        "category": "Entertainment",
+        "language": "Hindi",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
+        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8"
+    },
+    {
         "name": "APN (576p)",
         "id": "apn576p",
         "category": "News",
@@ -496,6 +536,14 @@
         "streamUrl": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
+        "name": "Ashwaveega News 24x7 (720p)",
+        "id": "ashwaveeganews24x7720p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ashwaveega_News_24x7.png",
+        "streamUrl": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8"
+    },
+    {
         "name": "Asian News (1080p)",
         "id": "asiannews1080p",
         "category": "News",
@@ -512,12 +560,12 @@
         "streamUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8"
     },
     {
-        "name": "Asianet Movies HD (720p)",
-        "id": "asianetmovieshd720p",
+        "name": "Asianet Movies (396p)",
+        "id": "asianetmovies396p",
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://i.imgur.com/cps67hs.png",
-        "streamUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8"
+        "streamUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8"
     },
     {
         "name": "Asianet News (1080p)",
@@ -640,14 +688,6 @@
         "streamUrl": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
     },
     {
-        "name": "Bflix Movies (576p)",
-        "id": "bflixmovies576p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/5CtiQ45.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls"
-    },
-    {
         "name": "Bhagyam TV (1080p)",
         "id": "bhagyamtv1080p",
         "category": "Religious",
@@ -670,6 +710,14 @@
         "language": "Hindi",
         "logo": "https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg",
         "streamUrl": "https://cdn.pishow.tv/ott/live/397/master.m3u8"
+    },
+    {
+        "name": "Bhakti Dhara (720p)",
+        "id": "bhaktidhara720p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/channels/Bhakti_dhara1.png",
+        "streamUrl": "https://newsliveindia.com:4433/bhaktidhara/index.m3u8"
     },
     {
         "name": "Bhakti Sagar (576p)",
@@ -846,6 +894,22 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/IUeMFey.jpg",
         "streamUrl": "https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8"
+    },
+    {
+        "name": "Chhaya Chitram Telugu (360p)",
+        "id": "chhayachitramtelugu360p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/channels/Chhaya_Chitram_Telugu.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8"
+    },
+    {
+        "name": "Chintpurni Live (720p)",
+        "id": "chintpurnilive720p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/Chintpurni_Live.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8"
     },
     {
         "name": "Chithiram (576p)",
@@ -1261,7 +1325,7 @@
         "category": "Entertainment",
         "language": "Hindi",
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png",
-        "streamUrl": "http://107.167.16.138/ddnational/index.m3u8?token=test"
+        "streamUrl": "https://cdn.pishow.tv/ott/live/11/master.m3u8"
     },
     {
         "name": "DD National HD (1080p)",
@@ -1408,12 +1472,12 @@
         "streamUrl": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8"
     },
     {
-        "name": "Dhamaal (576p)",
-        "id": "dhamaal576p",
+        "name": "Dhamaal (576p) [Geo-blocked]",
+        "id": "dhamaal576pgeoblocked",
         "category": "Music",
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png",
-        "streamUrl": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
+        "streamUrl": "https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8"
     },
     {
         "name": "Dharsan TV (720p)",
@@ -1534,6 +1598,14 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/OGyeLLR.png",
         "streamUrl": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8"
+    },
+    {
+        "name": "Dukhnivaran Patiala Live (720p)",
+        "id": "dukhnivaranpatialalive720p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/dukhniwaran.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8"
     },
     {
         "name": "DY 365 (360p)",
@@ -2256,6 +2328,14 @@
         "streamUrl": "https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8"
     },
     {
+        "name": "India Talkies (360p)",
+        "id": "indiatalkies360p",
+        "category": "Movies",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/FreeTV_India_Talkies.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8"
+    },
+    {
         "name": "India Today (720p)",
         "id": "indiatoday720p",
         "category": "News",
@@ -2480,12 +2560,12 @@
         "streamUrl": "https://legitpro.co.in/knews/index.m3u8"
     },
     {
-        "name": "Kabaddi 24x7 (576p)",
-        "id": "kabaddi24x7576p",
+        "name": "Kabaddi 24x7 (720p)",
+        "id": "kabaddi24x7720p",
         "category": "Sports",
         "language": "Hindi",
         "logo": "https://papaji.freetvindia.com/media/kabaddi_24x7.png",
-        "streamUrl": "http://180.188.254.253/live/KABADDI24X7.m3u8"
+        "streamUrl": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8"
     },
     {
         "name": "Kadak (1080p)",
@@ -3056,6 +3136,14 @@
         "streamUrl": "https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8"
     },
     {
+        "name": "Movie Punjab (720p)",
+        "id": "moviepunjab720p",
+        "category": "Movies",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/900_FreeTV_Movie_punjab.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8"
+    },
+    {
         "name": "Movies Now HD (1080p)",
         "id": "moviesnowhd1080p",
         "category": "Movies",
@@ -3126,6 +3214,14 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/NalsXTo.png",
         "streamUrl": "https://namdhari.tv/live/sbs1.m3u8"
+    },
+    {
+        "name": "Nanaksar Live (720p)",
+        "id": "nanaksarlive720p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/Nanasar_live.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8"
     },
     {
         "name": "Nandighosha TV (576p)",
@@ -3736,6 +3832,22 @@
         "streamUrl": "https://cdn.pishow.tv/ott/live/233/master.m3u8"
     },
     {
+        "name": "Padharo SA (720p)",
+        "id": "padharosa720p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/padharosa.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8"
+    },
+    {
+        "name": "Pankh (360p)",
+        "id": "pankh360p",
+        "category": "Music",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/pankh.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/index.m3u8"
+    },
+    {
         "name": "Paras Gold (576p)",
         "id": "parasgold576p",
         "category": "Religious",
@@ -3814,6 +3926,14 @@
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png",
         "streamUrl": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
+    },
+    {
+        "name": "Pogo (576p)",
+        "id": "pogo576p",
+        "category": "Animation;Kids",
+        "language": "Hindi",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
+        "streamUrl": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls"
     },
     {
         "name": "Polimer News (576p)",
@@ -4040,12 +4160,28 @@
         "streamUrl": "https://stream.ottlive.co.in/punjabihits/index.m3u8"
     },
     {
+        "name": "Punjabi Music HD (720p)",
+        "id": "punjabimusichd720p",
+        "category": "Music",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/Punjabi_Music_HD.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8"
+    },
+    {
         "name": "Punjabi Shorts (1080p)",
         "id": "punjabishorts1080p",
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://www.thegtcnetwork.com/punjabi-shorts.jpg",
         "streamUrl": "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8"
+    },
+    {
+        "name": "Punjabi TV (720p)",
+        "id": "punjabitv720p",
+        "category": "Entertainment",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/PunjabiTV.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8"
     },
     {
         "name": "Puthiya Thalaimurai (576p)",
@@ -4110,6 +4246,14 @@
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA/images/LOGO_HD/image.png",
         "streamUrl": "https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8"
+    },
+    {
+        "name": "Ragni (360p)",
+        "id": "ragni360p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/Ragni.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/RAGNITV/SAMITAORIGIN/index.m3u8"
     },
     {
         "name": "Raj Digital Plus (1080p)",
@@ -4302,6 +4446,14 @@
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAAM_TV/images/LOGO_HD/image.png",
         "streamUrl": "https://cdn.pishow.tv/ott/live/437/master.m3u8"
+    },
+    {
+        "name": "Saang (720p)",
+        "id": "saang720p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/Saang_TV.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/SAANGTV/SAMITAORIGIN/index.m3u8"
     },
     {
         "name": "Sach Bedhadak (576p)",
@@ -4632,6 +4784,14 @@
         "streamUrl": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8"
     },
     {
+        "name": "Shree Hazur Sahibji (720p)",
+        "id": "shreehazursahibji720p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/Shree_Hazursahibji.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/SHREEHAZURSAHIBJI/SAMITAORIGIN/index.m3u8"
+    },
+    {
         "name": "Shubh Cinema TV (720p)",
         "id": "shubhcinematv720p",
         "category": "Movies",
@@ -4654,6 +4814,14 @@
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png",
         "streamUrl": "https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8"
+    },
+    {
+        "name": "Sindh TV (India) (720p)",
+        "id": "sindhtvindia720p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/Sindth_TV.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8"
     },
     {
         "name": "Siri Kannada (576p)",
@@ -4686,6 +4854,14 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/cpedJ0L.png",
         "streamUrl": "https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8"
+    },
+    {
+        "name": "Soneri Cinema (360p)",
+        "id": "sonericinema360p",
+        "category": "Movies",
+        "language": "Hindi",
+        "logo": "https://papaji.freetvindia.com/media/1056_FreeTV_Soneri_Cinema.png",
+        "streamUrl": "https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8"
     },
     {
         "name": "Songdew TV (396p)",
@@ -4736,28 +4912,12 @@
         "streamUrl": "http://38.96.178.205/SONYHD/index.m3u8"
     },
     {
-        "name": "Sony Marathi (576p)",
-        "id": "sonymarathi576p",
-        "category": "Entertainment",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://107.167.16.138/sonymarathi/index.m3u8?token=test"
-    },
-    {
         "name": "Sony Max 1",
         "id": "sonymax1",
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
         "streamUrl": "http://27.116.22.53:5001/live/3418.m3u8"
-    },
-    {
-        "name": "Sony Max 2 (576p)",
-        "id": "sonymax2576p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/gqUYk6C.png",
-        "streamUrl": "http://107.167.16.138/sonymax2/index.m3u8?token=test"
     },
     {
         "name": "Sony Max (576p) [Geo-blocked]",
@@ -5976,14 +6136,6 @@
         "streamUrl": "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8"
     },
     {
-        "name": "Zee Action (576p)",
-        "id": "zeeaction576p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
-        "streamUrl": "http://107.167.16.138/zeeaction/index.m3u8?token=test"
-    },
-    {
         "name": "Zee Bangla (576p)",
         "id": "zeebangla576p",
         "category": "Entertainment",
@@ -6054,14 +6206,6 @@
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
         "streamUrl": "http://103.151.60.162:2122/play/a024/index.m3u8?hls"
-    },
-    {
-        "name": "Zee Classic (576p)",
-        "id": "zeeclassic576p",
-        "category": "Classic",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png",
-        "streamUrl": "http://107.167.16.138/zeeclassic/index.m3u8?token=test"
     },
     {
         "name": "Zee Comedy Nation (1080p)",
@@ -6160,14 +6304,6 @@
         "streamUrl": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8"
     },
     {
-        "name": "Zee Talkies HD (1080p)",
-        "id": "zeetalkieshd1080p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
-        "streamUrl": "http://107.167.16.138/zeetalkies/index.m3u8?token=test"
-    },
-    {
         "name": "Zee Tamil HD (1080p)",
         "id": "zeetamilhd1080p",
         "category": "Entertainment",
@@ -6230,14 +6366,6 @@
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png",
         "streamUrl": "https://server.zillarbarta.com/zillarbarta/index.m3u8"
-    },
-    {
-        "name": "Zing! (576p)",
-        "id": "zing576p",
-        "category": "Music",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540",
-        "streamUrl": "http://107.167.16.138/zing/index.m3u8?token=test"
     },
     {
         "name": "Zingabad (1080p)",

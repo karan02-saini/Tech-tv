@@ -1,7 +1,15 @@
 [
     {
-        "match": "India Vs Zimbabwe - (ENG - All Quality)",
-        "streamUrl": "http://livedekhoo.pages.dev/Willow2",
+        "match": "**Barcelona Vs Real Madrid - Laliga (Premier Sports - All Quality)",
+        "streamUrl": "https://livedekhoo.pages.dev/Sportv",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://livedekhoo.pages.dev/"
+        }
+    },
+    {
+        "match": "**Barcelona Vs Real Madrid - Laliga (Fancode - All Quality)",
+        "streamUrl": "https://livedekhoo.pages.dev/Fox2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://livedekhoo.pages.dev/"

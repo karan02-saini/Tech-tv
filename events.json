@@ -1,5 +1,13 @@
 [
     {
+        "match": "India A Vs Newzealand A - Test (ENG - SD)",
+        "streamUrl": "https://ci365.pages.dev/ENG2",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
         "match": "**Barcelona Vs Real Madrid - Laliga (Premier Sports - All Quality)",
         "streamUrl": "https://livedekhoo.pages.dev/Sportv",
         "headers": {

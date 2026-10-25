@@ -27,38 +27,40 @@ async def main():
                 lines = text.split("\n")
                 match_title = lines[0].strip()
                 
-                hindi_url = None
+                event_streams = []
                 
-                for line in lines:
-                    # Sirf HIN / Hindi waali line filter karenge
-                    if any(h in line.lower() for h in ["hin", "hindi"]):
-                        urls = re.findall(r'https?://[^\s]+', line)
-                        if urls:
-                            potential_url = urls[0]
-                            # Yahan check laga diya ki URL mein '*' nahi hona chahiye
-                            if "*" not in potential_url:
-                                hindi_url = potential_url
-                                break
+                # Saari lines ko check karenge ki kisme link aur language hai
+                for i in range(len(lines)):
+                    line = lines[i]
+                    urls = re.findall(r'https?://[^\s]+', line)
+                    
+                    if urls:
+                        potential_url = urls[0]
+                        # Agar link masked ya star wala nahi hai toh hi lenge
+                        if "*" not in potential_url:
+                            # Upar wali line ya current line se stream ka naam/language dhoondhenge
+                            stream_label = "Live Stream"
+                            if i > 0:
+                                stream_label = lines[i - 1].strip() # Jaise "HIN - SD" ya "ENG - SD"
+                            
+                            domain = potential_url.split('/')[2]
+                            
+                            # Har ek valid stream ko list me add kar denge
+                            event_streams.append({
+                                "match": f"{match_title} ({stream_label})",
+                                "streamUrl": potential_url,
+                                "headers": {
+                                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                                    "Referer": f"https://{domain}/"
+                                }
+                            })
                 
-                # Agar valid Hindi link mila (bina star wala) toh events.json update karenge
-                if hindi_url:
-                    domain = hindi_url.split('/')[2]
-                    
-                    event_data = [
-                        {
-                            "match": match_title,
-                            "streamUrl": hindi_url,
-                            "headers": {
-                                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                                "Referer": f"https://{domain}/"
-                            }
-                        }
-                    ]
-                    
+                # Agar ek bhi valid stream mil gayi toh events.json update kar denge
+                if event_streams:
                     with open("events.json", "w", encoding="utf-8") as f:
-                        json.dump(event_data, f, indent=4, ensure_ascii=False)
+                        json.dump(event_streams, f, indent=4, ensure_ascii=False)
                     
-                    print(f"Successfully updated events.json for: {match_title}")
+                    print(f"Successfully updated events.json with {len(event_streams)} streams for: {match_title}")
                     break
 
     await client.disconnect()

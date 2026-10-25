@@ -1,20 +1,10 @@
 [
     {
-        "match": "**India A Vs Newzealand A  - TEST (ENG - SD)",
-        "streamUrl": "https://ci365.pages.dev/ENG2",
+        "match": "Bhikharistan Vs England - ODI (Willow - All Quality)",
+        "streamUrl": "https://livedekhoo.pages.dev/Shoq",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-
-    {
-        "match": "Fancode",
-        "streamUrl": "https://fancodee1.pages.dev",
-        "logo":"https://cdn.brandfetch.io/idOaq-94G3/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://fancodee1.pages.dev"
+            "Referer": "https://livedekhoo.pages.dev/"
         }
     }
 ]

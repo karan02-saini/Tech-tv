@@ -18,60 +18,50 @@ async def main():
     print("Client started successfully!")
     
     print(f"Scanning messages from channel: {CHANNEL_ID}")
-    message_count = 0
+    all_event_streams = []
     
-    async for message in client.iter_messages(CHANNEL_ID, limit=5):
-        message_count += 1
+    # Ab hum last 15 messages scan karenge taaki saare active matches ke links mil sakein
+    async for message in client.iter_messages(CHANNEL_ID, limit=15):
         if message.text:
-            print(f"\n--- Message {message_count} Found ---")
-            print(message.text[:100])
-            
             text = message.text
             if any(k in text.lower() for k in ["vs", "t20", "odi", "match", "test", "india"]):
-                print("Match keywords matched!")
                 lines = text.split("\n")
                 match_title = "Live Match"
-                
-                event_streams = []
                 current_label = "Live Stream"
                 
                 for i in range(len(lines)):
                     line = lines[i].strip()
                     if "vs" in line.lower() and len(line) > 5:
                         match_title = line
-                        print(f"Detected Match Title: {match_title}")
                     
                     urls = re.findall(r'https?://[^\s]+', line)
                     if urls:
-                        # Yahan stars hata diye taaki clean URL mil jaye
                         potential_url = urls[0].strip('*')
-                        print(f"Found URL: {potential_url}")
-                        
                         if "t.me" not in potential_url:
                             if i > 0 and not re.findall(r'https?://[^\s]+', lines[i-1]):
                                 current_label = lines[i-1].strip()
                             
                             domain = potential_url.split('/')[2]
-                            print(f"Valid stream added -> Label: {current_label}, URL: {potential_url}")
                             
-                            event_streams.append({
+                            stream_entry = {
                                 "match": f"{match_title} ({current_label})",
                                 "streamUrl": potential_url,
                                 "headers": {
                                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
                                     "Referer": f"https://{domain}/"
                                 }
-                            })
-                
-                if event_streams:
-                    with open("events.json", "w", encoding="utf-8") as f:
-                        json.dump(event_streams, f, indent=4, ensure_ascii=False)
-                    print(f"SUCCESS: events.json updated with {len(event_streams)} streams!")
-                    break
-                else:
-                    print("No valid streams found in this message.")
-            else:
-                print("Keywords did not match in this message.")
+                            }
+                            
+                            # Duplicate entries rokne ke liye check karenge
+                            if stream_entry not in all_event_streams:
+                                all_event_streams.append(stream_entry)
+    
+    if all_event_streams:
+        with open("events.json", "w", encoding="utf-8") as f:
+            json.dump(all_event_streams, f, indent=4, ensure_ascii=False)
+        print(f"SUCCESS: events.json updated with total {len(all_event_streams)} streams from active matches!")
+    else:
+        print("No valid streams found in recent messages.")
 
     await client.disconnect()
 

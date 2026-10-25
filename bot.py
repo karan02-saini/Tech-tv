@@ -43,9 +43,11 @@ async def main():
                     
                     urls = re.findall(r'https?://[^\s]+', line)
                     if urls:
-                        potential_url = urls[0]
+                        # Yahan stars hata diye taaki clean URL mil jaye
+                        potential_url = urls[0].strip('*')
                         print(f"Found URL: {potential_url}")
-                        if "*" not in potential_url and "t.me" not in potential_url:
+                        
+                        if "t.me" not in potential_url:
                             if i > 0 and not re.findall(r'https?://[^\s]+', lines[i-1]):
                                 current_label = lines[i-1].strip()
                             

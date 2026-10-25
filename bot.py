@@ -24,7 +24,7 @@ async def main():
         message_count += 1
         if message.text:
             print(f"\n--- Message {message_count} Found ---")
-            print(message.text[:100]... # Message ki shuruat print karega
+            print(message.text[:100])
             
             text = message.text
             if any(k in text.lower() for k in ["vs", "t20", "odi", "match", "test", "india"]):

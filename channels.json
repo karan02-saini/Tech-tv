@@ -1864,6 +1864,14 @@
         "streamUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8"
     },
     {
+        "name": "ET Now Swadesh (1080p) [Geo-blocked]",
+        "id": "etnowswadesh1080pgeoblocked",
+        "category": "Business",
+        "language": "Hindi",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH/images/LOGO_HD/image.png",
+        "streamUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8"
+    },
+    {
         "name": "ETV Andhra Pradesh (1080p)",
         "id": "etvandhrapradesh1080p",
         "category": "News",
@@ -2320,20 +2328,12 @@
         "streamUrl": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8"
     },
     {
-        "name": "History TV18 (576p)",
-        "id": "historytv18576p",
-        "category": "Documentary",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://103.151.60.162:2122/play/a00y/index.m3u8?hls"
-    },
-    {
-        "name": "History TV18 HD",
-        "id": "historytv18hd",
+        "name": "History TV18 HD (1080p) [Geo-blocked]",
+        "id": "historytv18hd1080pgeoblocked",
         "category": "Documentary",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "https://techtraveleat.in/stream.m3u8?id=historytv18eng"
+        "streamUrl": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8"
     },
     {
         "name": "HMTV (India) (720p)",
@@ -3164,7 +3164,7 @@
         "id": "meialaitv576p",
         "category": "General",
         "language": "Hindi",
-        "logo": "https://www.meialai.in/assets/meialai-DBaBUZTH.png",
+        "logo": "https://www.meialai.com/assets/meialai-DBaBUZTH.png",
         "streamUrl": "https://meialai.iptelevishion.com/meialai/2/index.m3u8"
     },
     {
@@ -3374,30 +3374,6 @@
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/nationnews.png",
         "streamUrl": "https://server.playontv.in/nationnews/index.m3u8"
-    },
-    {
-        "name": "National Geographic (India) (576p) [Geo-blocked]",
-        "id": "nationalgeographicindia576pgeoblocked",
-        "category": "Documentary",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
-    },
-    {
-        "name": "National Geographic (India) HD (1080p)",
-        "id": "nationalgeographicindiahd1080p",
-        "category": "Documentary",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8"
-    },
-    {
-        "name": "National Geographic Wild (India) HD (1080p)",
-        "id": "nationalgeographicwildindiahd1080p",
-        "category": "Documentary",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8"
     },
     {
         "name": "NDTV 24x7 (720p)",
@@ -5072,28 +5048,12 @@
         "streamUrl": "http://38.96.178.205/SONYHD/index.m3u8"
     },
     {
-        "name": "Sony Max 1",
-        "id": "sonymax1",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://27.116.22.53:5001/live/3418.m3u8"
-    },
-    {
-        "name": "Sony Max (576p) [Geo-blocked]",
-        "id": "sonymax576pgeoblocked",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0"
-    },
-    {
         "name": "Sony Max HD (1080p)",
         "id": "sonymaxhd1080p",
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://103.185.24.134:3001/SonyMAX/index.m3u8"
+        "streamUrl": "http://103.151.60.162:2122/play/a014/index.m3u8?hls"
     },
     {
         "name": "Sony Pal (576p)",
@@ -5344,12 +5304,12 @@
         "streamUrl": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8"
     },
     {
-        "name": "StarPlus (India) HD (1080i)",
-        "id": "starplusindiahd1080i",
+        "name": "StarPlus (India) HD (1080p)",
+        "id": "starplusindiahd1080p",
         "category": "Entertainment",
         "language": "Hindi",
         "logo": "https://i.imgur.com/xWxNy3L.png",
-        "streamUrl": "http://202.70.146.135:8000/play/a009/index.m3u8"
+        "streamUrl": "http://66.102.126.10:8000/play/a008/index.m3u8"
     },
     {
         "name": "Steelbird Music (720p) [Not 24/7]",

@@ -1,58 +1,18 @@
 [
     {
-        "match": "**India Vs Newzealand - 3rd T20i (HIN - SD)",
-        "streamUrl": "https://ci365.pages.dev/HIND2",
+        "match": "**Bhikharistan Vs Srilanka - 5th ODI (Willow - All Quality)",
+        "streamUrl": "https://livedekhoo.pages.dev/Shoq",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
+            "Referer": "https://livedekhoo.pages.dev/"
         }
     },
     {
-        "match": "**India Vs Newzealand - 3rd T20i (ENG - SD)",
-        "streamUrl": "https://ci365.pages.dev/ENG2",
+        "match": "**Australia Vs Africa - Test ()",
+        "streamUrl": "https://ci365.pages.dev/Fancodee/play.html?id=4249783_eng&s=0",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 3rd T20i (Prime Hindi - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/PHINDI",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 3rd T20i (Prime English - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/PENGLISH",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 3rd T20i (TNT 3 - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/TNT3",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 3rd T20i (Willow By Cricbuzz - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/Willow",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 3rd T20i (For All Devices 👇🏻)",
-        "streamUrl": "https://newball.pages.dev/All",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://newball.pages.dev/"
         }
     }
 ]

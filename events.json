@@ -1,5 +1,37 @@
 [
     {
+        "match": "**WPL Auction - 2026 (HIN - SD)",
+        "streamUrl": "https://ci365.pages.dev/HIN",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**WPL Auction - 2026 (Willow - By Cricbuzz)",
+        "streamUrl": "https://ci365.pages.dev/Willow",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**Nepal Premier league (Fancode - All Quality)",
+        "streamUrl": "https://livedekhoo.pages.dev/Fox2",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://livedekhoo.pages.dev/"
+        }
+    },
+    {
+        "match": "**Nepal Premier league (Fancode - iOs)",
+        "streamUrl": "https://ci365.pages.dev/Fancodee/play.html?id=4250358_eng&s=0",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
         "match": "**India Vs Zimbabwe (Willow - All Quality)",
         "streamUrl": "https://livedekhoo.pages.dev/Willow2",
         "headers": {
@@ -13,6 +45,14 @@
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "Live Event (**Fancode Web →)",
+        "streamUrl": "http://fancodee1.pages.dev",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://fancodee1.pages.dev/"
         }
     }
 ]

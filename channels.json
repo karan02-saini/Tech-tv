@@ -5240,9 +5240,12 @@
         "streamUrl": "http://103.185.24.134:3001/SonyTenSports1/index.m3u8"
     },
     {
-        "match": "Willow TV Live",
+        "name": "Willow TV Live",
+        "id": "willowlivetv",
+        "category": "Sports",
+        "language": "English",
         "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/cb543e1c786c64869ed43d65d4ef43a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7354db80148b61299bce8c37683f03409a5e5afba358b1ebb50c148e68a2b64855c12d17e09f43c8821da689850dc85e8e27f6129f96f98c81148a82f32593688aa2d675581fb0ae3bf6e053b2d39b1b56f61309756e9e623ef1842a1d954e422694976034488d75e39c2883613ef975f08d721df8098721dd8a63a1a5bacd435231b0d65a2b4fca83f4daab6560ea34b8ca41bc02b94457633e349a4da1d91ec75b309326a48979b7a52a84fb421234cb90519aa77fe285bfa045862cc6cbf5d7680c1e234c358f53a6957ac869f34ce89f436f0c16049a935b92d2821e28341bcfc07fc40317bcec8e81f4072f8535480da6338f1b4d47e4004150a96df5933769c9010f863e32b218168850f3b529baf68eb3486bfb8e8912bf5ceeb30bc0ff4dfc3e6b1751e58059352f7b74deea691a2339921596b4e4d5375850a2a7b7bdaa351f0836105e09f192c4788981cd2c5d5b81642f6e701f008546b14dda13421421d914b0fd5b216567ead90110592e2c46648e3bf13d6b277413771775f7/125/1920x1080_5859480/index.m3u8",
-        "headers": {
+         "headers": {
             "Referer": "https://livedekhoo.pages.dev/",
             "Origin": "https://livedekhoo.pages.dev",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"

@@ -24,7 +24,7 @@ async def main():
     async for message in client.iter_messages(CHANNEL_ID, limit=15):
         if message.text:
             text = message.text
-            if any(k in text.lower() for k in ["vs", "t20", "odi", "match", "test", "india"]):
+            if any(k in text.lower() for k in ["vs", "t20", "odi", "match", "test", "india, ipl, wpl, auction"]):
                 lines = text.split("\n")
                 match_title = "Live Match"
                 current_label = "Live Stream"

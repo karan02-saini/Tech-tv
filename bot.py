@@ -20,18 +20,28 @@ async def main():
     print(f"Scanning messages from channel: {CHANNEL_ID}")
     all_event_streams = []
     
-    # Ab hum last 15 messages scan karenge taaki saare active matches ke links mil sakein
+    # Last 15 messages scan karenge taaki saare active matches/events ke links mil sakein
     async for message in client.iter_messages(CHANNEL_ID, limit=15):
         if message.text:
             text = message.text
-            if any(k in text.lower() for k in ["vs", "t20", "odi", "match", "test", "india, ipl, wpl, auction"]):
+            text_lower = text.lower()
+            
+            # Yahan humne saare sports, leagues, auction aur matches ke keywords add kar diye hain
+            valid_keywords = [
+                "vs", "t20", "odi", "match", "test", "india", 
+                "league", "auction", "wpl", "npl", "ipl", "bpl", "t10", "series", "fancode", "willow"
+            ]
+            
+            if any(k in text_lower for k in valid_keywords):
                 lines = text.split("\n")
-                match_title = "Live Match"
+                match_title = "Live Event"
                 current_label = "Live Stream"
                 
                 for i in range(len(lines)):
                     line = lines[i].strip()
-                    if "vs" in line.lower() and len(line) > 5:
+                    
+                    # Agar line me match title ya league ka naam hai
+                    if any(kw in line.lower() for kw in ["vs", "league", "auction", "series", "t20", "odi", "test"]) and len(line) > 3:
                         match_title = line
                     
                     urls = re.findall(r'https?://[^\s]+', line)
@@ -52,14 +62,13 @@ async def main():
                                 }
                             }
                             
-                            # Duplicate entries rokne ke liye check karenge
                             if stream_entry not in all_event_streams:
                                 all_event_streams.append(stream_entry)
     
     if all_event_streams:
         with open("events.json", "w", encoding="utf-8") as f:
             json.dump(all_event_streams, f, indent=4, ensure_ascii=False)
-        print(f"SUCCESS: events.json updated with total {len(all_event_streams)} streams from active matches!")
+        print(f"SUCCESS: events.json updated with total {len(all_event_streams)} streams!")
     else:
         print("No valid streams found in recent messages.")
 

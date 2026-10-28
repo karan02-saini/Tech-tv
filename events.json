@@ -22,14 +22,5 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://ci365.pages.dev/"
         }
-    },
-    {
-    "match": "Willow TV Live",
-    "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/...",
-    "headers": {
-        "Referer": "https://livedekhoo.pages.dev/",
-        "Origin": "https://livedekhoo.pages.dev",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36..."
     }
-}
 ]

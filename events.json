@@ -14,13 +14,5 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://ci365.pages.dev/"
         }
-    },
-    {
-        "match": "**Windies Vs Bangladesh - 1st Test (Fancode -)",
-        "streamUrl": "https://ci365.pages.dev/Fancodee",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
     }
 ]

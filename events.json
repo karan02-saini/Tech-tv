@@ -1,5 +1,29 @@
 [
     {
+        "match": "**Australia Vs Africa - Test ()",
+        "streamUrl": "https://ci365.pages.dev/Fancodee/play.html?id=4249783_eng&s=0",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "Live Event (Fancode - All Devices)",
+        "streamUrl": "https://ci365.pages.dev/Fancodee/play.html?id=4250388_eng&s=0",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**England Vs Srilanka - 6th ODI (Willow - All Quality)",
+        "streamUrl": "https://livedekhoo.pages.dev/Shoq",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://livedekhoo.pages.dev/"
+        }
+    },
+    {
         "match": "Live Event (**Fancode Web →)",
         "streamUrl": "http://fancodee1.pages.dev",
         "headers": {

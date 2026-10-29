@@ -13,7 +13,7 @@
         "category": "News",
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",
-        "streamUrl": "https://cdn.pishow.tv/ott/live/1007/master.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/647/master.m3u8"
     },
     {
         "name": "6 TV Telugu (576p)",
@@ -312,6 +312,14 @@
         "streamUrl": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8"
     },
     {
+        "name": "ABP Sanjha (576p)",
+        "id": "abpsanjha576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Sanjha.png",
+        "streamUrl": "https://fta.ektv.in/live/641/master.m3u8"
+    },
+    {
         "name": "Adhyatm TV (720p)",
         "id": "adhyatmtv720p",
         "category": "Religious",
@@ -480,6 +488,22 @@
         "streamUrl": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8"
     },
     {
+        "name": "Anmol Cinema 2 (576p)",
+        "id": "anmolcinema2576p",
+        "category": "Movies",
+        "language": "Hindi",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png",
+        "streamUrl": "https://fta.ektv.in/live/257/master.m3u8"
+    },
+    {
+        "name": "Anmol Cinema (576p)",
+        "id": "anmolcinema576p",
+        "category": "Movies",
+        "language": "Hindi",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",
+        "streamUrl": "https://fta.ektv.in/live/271/master.m3u8"
+    },
+    {
         "name": "Anmol TV (720p)",
         "id": "anmoltv720p",
         "category": "Entertainment",
@@ -576,12 +600,12 @@
         "streamUrl": "https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8"
     },
     {
-        "name": "Asianet Suvarna News (1080p) [Not 24/7]",
-        "id": "asianetsuvarnanews1080pnot247",
+        "name": "Asianet Suvarna News (576p)",
+        "id": "asianetsuvarnanews576p",
         "category": "News",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/692/master.m3u8"
     },
     {
         "name": "Asom Live 24 (576p)",
@@ -1216,28 +1240,28 @@
         "streamUrl": "https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8"
     },
     {
-        "name": "DD Arun Prabha (360p)",
-        "id": "ddarunprabha360p",
+        "name": "DD Arun Prabha (576p)",
+        "id": "ddarunprabha576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ARUNPRABHA/images/LOGO_HD/image.png",
-        "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/203/master.m3u8"
     },
     {
-        "name": "DD Assam (504p)",
-        "id": "ddassam504p",
+        "name": "DD Assam (576p)",
+        "id": "ddassam576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/672/master.m3u8"
     },
     {
-        "name": "DD Bangla (504p)",
-        "id": "ddbangla504p",
+        "name": "DD Bangla (576p)",
+        "id": "ddbangla576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/197/master.m3u8"
     },
     {
         "name": "DD Bharati (720p)",
@@ -1272,36 +1296,36 @@
         "streamUrl": "https://cdn.pishow.tv/ott/live/15/master.m3u8"
     },
     {
-        "name": "DD Girnar (504p)",
-        "id": "ddgirnar504p",
+        "name": "DD Girnar (576p)",
+        "id": "ddgirnar576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s142782_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/368/master.m3u8"
     },
     {
-        "name": "DD Goa (504p)",
-        "id": "ddgoa504p",
+        "name": "DD Goa (576p)",
+        "id": "ddgoa576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Goa-Logo_2000_X_1125_Transpharent.png",
-        "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/367/master.m3u8"
     },
     {
-        "name": "DD Haryana (504p)",
-        "id": "ddharyana504p",
+        "name": "DD Haryana (576p)",
+        "id": "ddharyana576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Haryana-Logo_2000_X_1125_Transpharent.png",
-        "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/580/master.m3u8"
     },
     {
-        "name": "DD Himachal Pradesh (504p)",
-        "id": "ddhimachalpradesh504p",
+        "name": "DD Himachal Pradesh (576p)",
+        "id": "ddhimachalpradesh576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s142785_ld_h9_aa.png?lock=720x540",
-        "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/575/master.m3u8"
     },
     {
         "name": "DD India (1080p)",
@@ -1312,20 +1336,20 @@
         "streamUrl": "https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8"
     },
     {
-        "name": "DD Jharkhand (504p)",
-        "id": "ddjharkhand504p",
+        "name": "DD Jharkhand (576p)",
+        "id": "ddjharkhand576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/573/master.m3u8"
     },
     {
-        "name": "DD Kashir (504p)",
-        "id": "ddkashir504p",
+        "name": "DD Kashir (576p)",
+        "id": "ddkashir576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KASHIR/images/LOGO_HD/image.png",
-        "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/248/master.m3u8"
     },
     {
         "name": "DD Kisan (1080p)",
@@ -1344,20 +1368,20 @@
         "streamUrl": "https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8"
     },
     {
-        "name": "DD Malayalam (504p)",
-        "id": "ddmalayalam504p",
+        "name": "DD Malayalam (576p)",
+        "id": "ddmalayalam576p",
         "category": "Entertainment",
         "language": "Hindi",
         "logo": "https://i.postimg.cc/BZjmjJJs/DD-Malayalam.png",
-        "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/680/master.m3u8"
     },
     {
-        "name": "DD Manipur (504p)",
-        "id": "ddmanipur504p",
+        "name": "DD Manipur (576p)",
+        "id": "ddmanipur576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_IMPHAL/images/LOGO_HD/image.png",
-        "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/671/master.m3u8"
     },
     {
         "name": "DD Meghalaya (504p)",
@@ -1368,20 +1392,20 @@
         "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8"
     },
     {
-        "name": "DD Mizoram (504p)",
-        "id": "ddmizoram504p",
+        "name": "DD Mizoram (576p)",
+        "id": "ddmizoram576p",
         "category": "Culture;News",
         "language": "Hindi",
         "logo": "https://i.imgur.com/I5zT1DG.png",
-        "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/381/master.m3u8"
     },
     {
-        "name": "DD Nagaland (504p)",
-        "id": "ddnagaland504p",
+        "name": "DD Nagaland (576p)",
+        "id": "ddnagaland576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://i.imgur.com/HUL4aF6.png",
-        "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/670/master.m3u8"
     },
     {
         "name": "DD National (576p)",
@@ -1413,7 +1437,7 @@
         "category": "News",
         "language": "Hindi",
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png",
-        "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/117/117_0.m3u8"
     },
     {
         "name": "DD Odia (576p)",
@@ -1424,12 +1448,12 @@
         "streamUrl": "https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8"
     },
     {
-        "name": "DD Punjabi (504p)",
-        "id": "ddpunjabi504p",
+        "name": "DD Punjabi (576p)",
+        "id": "ddpunjabi576p",
         "category": "Culture",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/177/master.m3u8"
     },
     {
         "name": "DD Rajasthan (720p)",
@@ -1440,12 +1464,12 @@
         "streamUrl": "https://cdn.pishow.tv/ott/live/34/master.m3u8"
     },
     {
-        "name": "DD Sahyadri (504p)",
-        "id": "ddsahyadri504p",
+        "name": "DD Sahyadri (576p)",
+        "id": "ddsahyadri576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAHYADRI/images/LOGO_HD/image.png",
-        "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/187/master.m3u8"
     },
     {
         "name": "DD Saptagiri (504p)",
@@ -1472,6 +1496,14 @@
         "streamUrl": "https://cdn.pishow.tv/ott/live/1161/master.m3u8"
     },
     {
+        "name": "DD Tamil (576p)",
+        "id": "ddtamil576p",
+        "category": "General",
+        "language": "Hindi",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png",
+        "streamUrl": "https://fta.ektv.in/live/679/master.m3u8"
+    },
+    {
         "name": "DD Tamil HD (1080p)",
         "id": "ddtamilhd1080p",
         "category": "General",
@@ -1480,12 +1512,12 @@
         "streamUrl": "https://cdn.pishow.tv/ott/live/1737/master.m3u8"
     },
     {
-        "name": "DD Tripura (504p)",
-        "id": "ddtripura504p",
+        "name": "DD Tripura (576p)",
+        "id": "ddtripura576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TRIPURA/images/LOGO_HD/image.png",
-        "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/661/master.m3u8"
     },
     {
         "name": "DD Urdu (720p)",
@@ -1517,7 +1549,7 @@
         "category": "General",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_YADAGIRI/images/LOGO_HD/image.png",
-        "streamUrl": "https://cdn.pishow.tv/ott/live/21/master.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/678/master.m3u8"
     },
     {
         "name": "Deewana HD (540p)",
@@ -1904,14 +1936,6 @@
         "streamUrl": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8"
     },
     {
-        "name": "ETV Bal Bharat (576p)",
-        "id": "etvbalbharat576p",
-        "category": "Kids",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/zsTxPV9.png",
-        "streamUrl": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8"
-    },
-    {
         "name": "ETV Beats (1080p)",
         "id": "etvbeats1080p",
         "category": "Music",
@@ -2022,6 +2046,14 @@
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s143038_ld_h15_aa.png?lock=720x540",
         "streamUrl": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8"
+    },
+    {
+        "name": "FashionTV (India) (576p)",
+        "id": "fashiontvindia576p",
+        "category": "Lifestyle",
+        "language": "Hindi",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Fashion%20TV.png",
+        "streamUrl": "https://fta.ektv.in/live/144/144_0.m3u8"
     },
     {
         "name": "Fast1 (576p)",
@@ -2254,6 +2286,14 @@
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png",
         "streamUrl": "https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8"
+    },
+    {
+        "name": "Gulistan News (576p)",
+        "id": "gulistannews576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540",
+        "streamUrl": "https://fta.ektv.in/live/427/master.m3u8"
     },
     {
         "name": "Gyandarshan (720p)",
@@ -2496,12 +2536,52 @@
         "streamUrl": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8"
     },
     {
+        "name": "India News Gujarati (576p)",
+        "id": "indianewsgujarati576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Gujarat.png",
+        "streamUrl": "https://fta.ektv.in/live/653/master.m3u8"
+    },
+    {
+        "name": "India News Haryana (576p)",
+        "id": "indianewsharyana576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://dtil.tmsimg.com/assets/s143192_ld_h15_aa.png?lock=720x540",
+        "streamUrl": "https://fta.ektv.in/live/590/master.m3u8"
+    },
+    {
+        "name": "India News Madhya Pradesh/Chhattisgarh (576p)",
+        "id": "indianewsmadhyapradeshchhattisgarh576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png",
+        "streamUrl": "https://fta.ektv.in/live/600/master.m3u8"
+    },
+    {
         "name": "India News Punjab/Himachal (576p)",
         "id": "indianewspunjabhimachal576p",
         "category": "News",
         "language": "Hindi",
         "logo": "https://i.imgur.com/Mu1MPvt.png",
         "streamUrl": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8"
+    },
+    {
+        "name": "India News Rajasthan (576p)",
+        "id": "indianewsrajasthan576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Rajasthan.png",
+        "streamUrl": "https://fta.ektv.in/live/601/master.m3u8"
+    },
+    {
+        "name": "India News Uttar Pradesh (576p)",
+        "id": "indianewsuttarpradesh576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_UP.png",
+        "streamUrl": "https://fta.ektv.in/live/304/master.m3u8"
     },
     {
         "name": "India Talkies (360p)",
@@ -2568,12 +2648,12 @@
         "streamUrl": "https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8"
     },
     {
-        "name": "INH 24x7 (396p)",
-        "id": "inh24x7396p",
+        "name": "INH 24x7 (576p)",
+        "id": "inh24x7576p",
         "category": "News",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png",
-        "streamUrl": "https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/99/99_0.m3u8"
     },
     {
         "name": "Insync (576p)",
@@ -2645,7 +2725,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://i.imgur.com/25eWjX2.png",
-        "streamUrl": "http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8"
+        "streamUrl": "http://103.151.60.162:2122/play/a00x/index.m3u8?hls"
     },
     {
         "name": "Jan TV (576p)",
@@ -3013,15 +3093,15 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png",
-        "streamUrl": "https://cdn.pishow.tv/ott/live/10007/master.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/48/48_0.m3u8"
     },
     {
-        "name": "Maha Punjabi",
-        "id": "mahapunjabi",
+        "name": "Maha Punjabi (576p)",
+        "id": "mahapunjabi576p",
         "category": "Entertainment",
         "language": "Hindi",
         "logo": "https://i.imgur.com/AWUcSb8.png",
-        "streamUrl": "https://cdn.pishow.tv/ott/live/1521/master.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/640/master.m3u8"
     },
     {
         "name": "Mahaa Bhakti (1080p)",
@@ -3280,12 +3360,12 @@
         "streamUrl": "https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8"
     },
     {
-        "name": "MH One (360p)",
-        "id": "mhone360p",
+        "name": "MH One (576p)",
+        "id": "mhone576p",
         "category": "General",
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png",
-        "streamUrl": "https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/353/master.m3u8"
     },
     {
         "name": "MH One Dil Se (576p)",
@@ -3448,6 +3528,14 @@
         "streamUrl": "https://server.playontv.in/nationnews/index.m3u8"
     },
     {
+        "name": "Naxatra News (576p)",
+        "id": "naxatranews576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://i.imgur.com/IGduUk4.png",
+        "streamUrl": "https://fta.ektv.in/live/668/master.m3u8"
+    },
+    {
         "name": "Naxatra News Hindi (576p)",
         "id": "naxatranewshindi576p",
         "category": "News",
@@ -3532,7 +3620,7 @@
         "id": "nepal1576p",
         "category": "Entertainment",
         "language": "Hindi",
-        "logo": "https://i.imgur.com/Xr4FjC8.png",
+        "logo": "https://i.ibb.co/bMZpdbYJ/Nepal-1.png",
         "streamUrl": "https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8"
     },
     {
@@ -3925,7 +4013,7 @@
         "category": "Religious",
         "language": "Hindi",
         "logo": "https://i.imgur.com/nGJv6QR.png",
-        "streamUrl": "https://cdn.pishow.tv/ott/live/965/master.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/706/master.m3u8"
     },
     {
         "name": "NK TV 24x7 (1080p)",
@@ -5240,18 +5328,6 @@
         "streamUrl": "http://103.185.24.134:3001/SonyTenSports1/index.m3u8"
     },
     {
-        "name": "Willow TV Live",
-        "id": "willowlivetv",
-        "category": "Sports",
-        "language": "English",
-        "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/cb543e1c786c64869ed43d65d4ef43a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7354db80148b61299bce8c37683f03409a5e5afba358b1ebb50c148e68a2b64855c12d17e09f43c8821da689850dc85e8e27f6129f96f98c81148a82f32593688aa2d675581fb0ae3bf6e053b2d39b1b56f61309756e9e623ef1842a1d954e422694976034488d75e39c2883613ef975f08d721df8098721dd8a63a1a5bacd435231b0d65a2b4fca83f4daab6560ea34b8ca41bc02b94457633e349a4da1d91ec75b309326a48979b7a52a84fb421234cb90519aa77fe285bfa045862cc6cbf5d7680c1e234c358f53a6957ac869f34ce89f436f0c16049a935b92d2821e28341bcfc07fc40317bcec8e81f4072f8535480da6338f1b4d47e4004150a96df5933769c9010f863e32b218168850f3b529baf68eb3486bfb8e8912bf5ceeb30bc0ff4dfc3e6b1751e58059352f7b74deea691a2339921596b4e4d5375850a2a7b7bdaa351f0836105e09f192c4788981cd2c5d5b81642f6e701f008546b14dda13421421d914b0fd5b216567ead90110592e2c46648e3bf13d6b277413771775f7/125/1920x1080_5859480/index.m3u8",
-         "headers": {
-            "Referer": "https://livedekhoo.pages.dev/",
-            "Origin": "https://livedekhoo.pages.dev",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-            }
-        },
-    {
         "name": "Sony Sports Ten 2 (576p)",
         "id": "sonysportsten2576p",
         "category": "Sports",
@@ -5538,6 +5614,14 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/BOhgz2T.png",
         "streamUrl": "https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8"
+    },
+    {
+        "name": "STV Haryana News (576p)",
+        "id": "stvharyananews576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://i.imgur.com/TJRZo9e.png",
+        "streamUrl": "https://fta.ektv.in/live/607/master.m3u8"
     },
     {
         "name": "Subhavaartha TV (720p)",
@@ -6076,6 +6160,14 @@
         "streamUrl": "https://server.livelegitpro.in/bnews24/bnews24/video.m3u8"
     },
     {
+        "name": "TV 100 (India) (576p)",
+        "id": "tv100india576p",
+        "category": "Undefined",
+        "language": "Hindi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV_100.png",
+        "streamUrl": "https://fta.ektv.in/live/310/master.m3u8"
+    },
+    {
         "name": "TV BRICS English (1080p)",
         "id": "tvbricsenglish1080p",
         "category": "General",
@@ -6340,22 +6432,6 @@
         "streamUrl": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
     },
     {
-        "name": "YET Max (720p)",
-        "id": "yetmax720p",
-        "category": "Music",
-        "language": "Hindi",
-        "logo": "https://yettelevision.com/assets/images/logo/channel_11847.png",
-        "streamUrl": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
-    },
-    {
-        "name": "YET TV (720p)",
-        "id": "yettv720p",
-        "category": "Entertainment",
-        "language": "Hindi",
-        "logo": "https://yettelevision.com/assets/images/logo/channel_1.png",
-        "streamUrl": "https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8"
-    },
-    {
         "name": "YRF Music (1080p)",
         "id": "yrfmusic1080p",
         "category": "Music",
@@ -6434,6 +6510,14 @@
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00230LKE.png?lock=720x540",
         "streamUrl": "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8"
+    },
+    {
+        "name": "Zee Action (576p)",
+        "id": "zeeaction576p",
+        "category": "Movies",
+        "language": "Hindi",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
+        "streamUrl": "https://fta.ektv.in/live/270/master.m3u8"
     },
     {
         "name": "Zee Bangla (576p)",

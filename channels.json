@@ -488,22 +488,6 @@
         "streamUrl": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8"
     },
     {
-        "name": "Anmol Cinema 2 (576p)",
-        "id": "anmolcinema2576p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png",
-        "streamUrl": "https://fta.ektv.in/live/257/master.m3u8"
-    },
-    {
-        "name": "Anmol Cinema (576p)",
-        "id": "anmolcinema576p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",
-        "streamUrl": "https://fta.ektv.in/live/271/master.m3u8"
-    },
-    {
         "name": "Anmol TV (720p)",
         "id": "anmoltv720p",
         "category": "Entertainment",

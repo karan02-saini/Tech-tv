@@ -1,15 +1,7 @@
 [
     {
-        "match": "**Australia Vs South africa ()",
-        "streamUrl": "https://ci365.pages.dev/Fancodee/play.html?id=4249783_eng&s=0",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "Live Event (ENG - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/Fancodee/play.html?id=4250391_eng&s=0",
+        "match": "**Nepal Premier league ()",
+        "streamUrl": "https://ci365.pages.dev/Fancodee/play.html?id=4250362_eng&s=0",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://ci365.pages.dev/"
@@ -29,14 +21,6 @@
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://livedekhoo.pages.dev/"
-        }
-    },
-    {
-        "match": "Live Event (Fancode)",
-        "streamUrl": "https://ci365.pages.dev/Fancodee",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
         }
     },
     {

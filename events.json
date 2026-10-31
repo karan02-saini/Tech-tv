@@ -1,15 +1,31 @@
 [
     {
-        "match": "Live Event (Fancode)",
-        "streamUrl": "https://ci365.pages.dev/Fancodee",
+        "match": "Live Event (ENG - All Quality)",
+        "streamUrl": "https://ci365.pages.dev/Fancodee/play.html?id=4250391_eng&s=0",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://ci365.pages.dev/"
         }
     },
     {
-        "match": "**India A Vs Newzealand A - TEST (ENG -SD)",
-        "streamUrl": "https://ci365.pages.dev/ENG2",
+        "match": "**Bhikaristan Vs Srilanka - Final (Willow - All Quality)",
+        "streamUrl": "https://livedekhoo.pages.dev/Willow2",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://livedekhoo.pages.dev/"
+        }
+    },
+    {
+        "match": "**Bhikaristan Vs Srilanka - Final (ENG - All Devices)",
+        "streamUrl": "https://livedekhoo.pages.dev/Shoq",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://livedekhoo.pages.dev/"
+        }
+    },
+    {
+        "match": "Live Event (Fancode)",
+        "streamUrl": "https://ci365.pages.dev/Fancodee",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://ci365.pages.dev/"

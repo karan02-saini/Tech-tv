@@ -1560,6 +1560,14 @@
         "streamUrl": "https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8"
     },
     {
+        "name": "Dharm Sandesh (576p)",
+        "id": "dharmsandesh576p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png",
+        "streamUrl": "https://fta.ektv.in/live/625/master.m3u8"
+    },
+    {
         "name": "Dharsan TV (720p)",
         "id": "dharsantv720p",
         "category": "Religious",
@@ -1712,12 +1720,12 @@
         "streamUrl": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8"
     },
     {
-        "name": "DY 365 (576p)",
-        "id": "dy365576p",
+        "name": "DY 365 (360p)",
+        "id": "dy365360p",
         "category": "News",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "https://cdn.pishow.tv/ott/live/1624/master.m3u8"
+        "streamUrl": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8"
     },
     {
         "name": "E 24 (576p)",

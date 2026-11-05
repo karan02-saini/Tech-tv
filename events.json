@@ -1,37 +1,5 @@
 [
     {
-        "match": "Live Event (Fancode - All Devices)",
-        "streamUrl": "https://insider365.pages.dev/WBBL",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
-        }
-    },
-    {
-        "match": "Live Event (Willow - All Quality)",
-        "streamUrl": "https://insider365.pages.dev/WBBL2",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
-        }
-    },
-    {
-        "match": "Live Event (All Devices)",
-        "streamUrl": "https://ci365.pages.dev/Fancodee/play.html?id=4250396_eng&s=0",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**Bangladesh Vs Windies ()",
-        "streamUrl": "https://ci365.pages.dev/Fancodee/play.html?id=4250527_eng&s=0",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
         "match": "Live Event (**Fancode Web →)",
         "streamUrl": "http://fancodee1.pages.dev",
         "headers": {

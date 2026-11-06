@@ -1,45 +1,5 @@
 [
     {
-        "match": "Live Event (Willow - All Quality)",
-        "streamUrl": "https://insider365.pages.dev/WBBL",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
-        }
-    },
-    {
-        "match": "Live Event (iOs Users 👇🏻)",
-        "streamUrl": "https://livedekhoo.pages.dev/Play/?url=https://dai-fancode.pages.dev/mumbai/4250398_english_hls_d49d0b4ba278710_1ta-di_h264/index.m3u8",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://livedekhoo.pages.dev/"
-        }
-    },
-    {
-        "match": "**http://livedekhoo.pages.dev/Play?url=https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.m3u8** ()",
-        "streamUrl": "http://livedekhoo.pages.dev/Play?url=https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.m3u8",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://livedekhoo.pages.dev/"
-        }
-    },
-    {
-        "match": "**Afganistan Vs Zimbabwe - TEST (ENG - All Quality)",
-        "streamUrl": "https://insider365.pages.dev/T1",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
-        }
-    },
-    {
-        "match": "**PAK U19 Vs UAE U19 - asia Cup (Willow - For Pc & Android)",
-        "streamUrl": "https://insider365.pages.dev/Willow2",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
-        }
-    },
-    {
         "match": "Live Event (**Fancode Web →)",
         "streamUrl": "http://fancodee1.pages.dev",
         "headers": {

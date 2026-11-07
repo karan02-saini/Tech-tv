@@ -1,18 +1,10 @@
 [
     {
-        "match": "Live Event (ENG - HD)",
-        "streamUrl": "https://insider365.pages.dev/T10",
+        "match": "**Windies Vs England  - T20i (ENG - HD)",
+        "streamUrl": "https://livedekhoo.pages.dev/Fox2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
-        }
-    },
-    {
-        "match": "Live Event (Willow - For Pc & Android)",
-        "streamUrl": "https://insider365.pages.dev/WAD",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
+            "Referer": "https://livedekhoo.pages.dev/"
         }
     },
     {

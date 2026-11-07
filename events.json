@@ -1,18 +1,18 @@
 [
     {
-        "match": "Live Event (Fancode - HD)",
-        "streamUrl": "https://insider365.pages.dev/WBBL2",
+        "match": "Live Event (ENG - HD)",
+        "streamUrl": "https://insider365.pages.dev/T10",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://insider365.pages.dev/"
         }
     },
     {
-        "match": "Live Event (All Devices Users 👇🏻)",
-        "streamUrl": "https://ci365.pages.dev/Fancodee/play.html?id=4250400_eng&s=0",
+        "match": "Live Event (Willow - For Pc & Android)",
+        "streamUrl": "https://insider365.pages.dev/WAD",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
+            "Referer": "https://insider365.pages.dev/"
         }
     },
     {

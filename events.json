@@ -1,66 +1,18 @@
 [
     {
-        "match": "**India Vs Newzealand - 2nd ODI (Prime Hindi - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/PHINDI",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 2nd ODI (Prime English - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/PENGLISH",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 2nd ODI (HIN - HD)",
-        "streamUrl": "https://ci365.pages.dev/HIND2",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 2nd ODI (ENG - HD)",
-        "streamUrl": "https://ci365.pages.dev/ENG2",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 2nd ODI (TNT 3 - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/TNT3",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 2nd ODI (Willow By Cricbuzz - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/Willow",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 2nd ODI (For iOs Users 👇🏻)",
-        "streamUrl": "https://insider365.pages.dev/A1",
+        "match": "Live Event (Fancode - HD)",
+        "streamUrl": "https://insider365.pages.dev/WBBL2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://insider365.pages.dev/"
         }
     },
     {
-        "match": "**India Vs Newzealand - 2nd ODI (For All Devices 👇🏻)",
-        "streamUrl": "https://insider365.pages.dev/All",
+        "match": "Live Event (All Devices Users 👇🏻)",
+        "streamUrl": "https://ci365.pages.dev/Fancodee/play.html?id=4250400_eng&s=0",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
+            "Referer": "https://ci365.pages.dev/"
         }
     },
     {

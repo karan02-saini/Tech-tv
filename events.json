@@ -1,10 +1,26 @@
 [
     {
-        "match": "**India A Vs Newzealand A - 3rd Test (ENG - HD)",
-        "streamUrl": "https://ci365.pages.dev/ENG2",
+        "match": "**India U19 Vs PAK U19 - Asia Cup (Willow - For Pc & Android)",
+        "streamUrl": "https://ci365.pages.dev/Willow",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**India U19 Vs PAK U19 - Asia Cup (HIN - HD)",
+        "streamUrl": "https://ci365.pages.dev/HIN",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**UAE U19 Vs NEP U19 - asia Cup (Willow - For Pc & Android)",
+        "streamUrl": "https://insider365.pages.dev/Willow2",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
         }
     },
     {

@@ -1,18 +1,18 @@
 [
     {
-        "match": "Live Event (HIN - HD)",
-        "streamUrl": "https://insider365.pages.dev/T10",
+        "match": "**Inter vs Como (ENG - All Quality)",
+        "streamUrl": "https://livedekhoo.pages.dev/TNT2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
+            "Referer": "https://livedekhoo.pages.dev/"
         }
     },
     {
-        "match": "Live Event (Willow - For Pc & Android)",
-        "streamUrl": "https://insider365.pages.dev/WAD",
+        "match": "**Manchester United vs  Aston Villa (Fubo)",
+        "streamUrl": "https://livedekhoo.pages.dev/TNT1",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
+            "Referer": "https://livedekhoo.pages.dev/"
         }
     },
     {

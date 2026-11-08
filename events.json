@@ -1,23 +1,15 @@
 [
     {
-        "match": "**India U19 Vs PAK U19 - Asia Cup (Willow - For Pc & Android)",
-        "streamUrl": "https://ci365.pages.dev/Willow",
+        "match": "Live Event (HIN - HD)",
+        "streamUrl": "https://insider365.pages.dev/T10",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
+            "Referer": "https://insider365.pages.dev/"
         }
     },
     {
-        "match": "**India U19 Vs PAK U19 - Asia Cup (HIN - HD)",
-        "streamUrl": "https://ci365.pages.dev/HIN",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**UAE U19 Vs NEP U19 - asia Cup (Willow - For Pc & Android)",
-        "streamUrl": "https://insider365.pages.dev/Willow2",
+        "match": "Live Event (Willow - For Pc & Android)",
+        "streamUrl": "https://insider365.pages.dev/WAD",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://insider365.pages.dev/"

@@ -1,10 +1,10 @@
 [
     {
-        "match": "**Windies Vs England  - T20i (ENG - HD)",
-        "streamUrl": "https://livedekhoo.pages.dev/Fox2",
+        "match": "**India A Vs Newzealand A - 3rd Test (ENG - HD)",
+        "streamUrl": "https://ci365.pages.dev/ENG2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://livedekhoo.pages.dev/"
+            "Referer": "https://ci365.pages.dev/"
         }
     },
     {

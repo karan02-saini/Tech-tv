@@ -1077,7 +1077,7 @@
         "category": "Entertainment",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a02o/index.m3u8?hls"
+        "streamUrl": "http://103.165.93.31:8095/colorsBangla/index.m3u8"
     },
     {
         "name": "Colors Bangla Cinema (576p)",
@@ -1085,7 +1085,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls"
+        "streamUrl": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8"
     },
     {
         "name": "Colors Cineplex (576p)",
@@ -1101,7 +1101,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a02s/index.m3u8?hls"
+        "streamUrl": "http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8"
     },
     {
         "name": "Colors Cineplex Bollywood (576p)",
@@ -1126,14 +1126,6 @@
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png",
         "streamUrl": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8"
-    },
-    {
-        "name": "Colors Infinity HD (1080p)",
-        "id": "colorsinfinityhd1080p",
-        "category": "Entertainment",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a02r/index.m3u8?hls"
     },
     {
         "name": "Colors Kannada HD (1080i)",
@@ -1696,22 +1688,6 @@
         "streamUrl": "http://66.102.126.10:8000/play/a013/index.m3u8"
     },
     {
-        "name": "Disney International HD (576p)",
-        "id": "disneyinternationalhd576p",
-        "category": "Kids",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a018/index.m3u8?hls"
-    },
-    {
-        "name": "Disney Junior (India) (576p)",
-        "id": "disneyjuniorindia576p",
-        "category": "Kids",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a016/index.m3u8?hls"
-    },
-    {
         "name": "Divya Bhajan (1080p)",
         "id": "divyabhajan1080p",
         "category": "Religious",
@@ -1936,14 +1912,6 @@
         "streamUrl": "https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8"
     },
     {
-        "name": "Epic Parivar (576p)",
-        "id": "epicparivar576p",
-        "category": "Entertainment",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVZH.png?lock=720x540",
-        "streamUrl": "http://103.151.60.162:2122/play/a01p/index.m3u8?hls"
-    },
-    {
         "name": "Epic TV Digital (1080p)",
         "id": "epictvdigital1080p",
         "category": "Entertainment",
@@ -2072,16 +2040,16 @@
         "streamUrl": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8"
     },
     {
-        "name": "Eurosport (720p)",
-        "id": "eurosport720p",
+        "name": "Eurosport (India) (720p)",
+        "id": "eurosportindia720p",
         "category": "Sports",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
         "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8"
     },
     {
-        "name": "Eurosport HD (1080p)",
-        "id": "eurosporthd1080p",
+        "name": "Eurosport (India) HD (1080p)",
+        "id": "eurosportindiahd1080p",
         "category": "Sports",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
@@ -3493,7 +3461,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a02w/index.m3u8?hls"
+        "streamUrl": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8"
     },
     {
         "name": "Movies Now + (1080p)",
@@ -4085,7 +4053,7 @@
         "category": "Kids",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a00s/index.m3u8?hls"
+        "streamUrl": "http://103.185.24.134:3001/NICK-JR/index.m3u8"
     },
     {
         "name": "Nickelodeon (India) (576p)",
@@ -4328,12 +4296,12 @@
         "streamUrl": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
     },
     {
-        "name": "Pogo (576p)",
-        "id": "pogo576p",
+        "name": "Pogo (720p)",
+        "id": "pogo720p",
         "category": "Animation;Kids",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls"
+        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8"
     },
     {
         "name": "Polimer News (576p)",
@@ -5365,7 +5333,7 @@
         "category": "Kids",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls"
+        "streamUrl": "http://103.185.24.134:3001/SONIC/index.m3u8"
     },
     {
         "name": "Sony Aath (576p)",
@@ -5373,7 +5341,7 @@
         "category": "Entertainment",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a023/index.m3u8?hls"
+        "streamUrl": "http://103.165.93.31:8095/sonyAath/index.m3u8"
     },
     {
         "name": "Sony BBC Earth HD (1080p)",
@@ -5382,14 +5350,6 @@
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
         "streamUrl": "http://103.185.24.134:3001/SONY-BBC/index.m3u8"
-    },
-    {
-        "name": "Sony Entertainment Television (576p)",
-        "id": "sonyentertainmenttelevision576p",
-        "category": "Entertainment",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls"
     },
     {
         "name": "Sony Entertainment Television HD (1080p)",
@@ -5405,7 +5365,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://103.151.60.162:2122/play/a014/index.m3u8?hls"
+        "streamUrl": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8"
     },
     {
         "name": "Sony Pal (576p)",
@@ -5416,28 +5376,12 @@
         "streamUrl": "http://59.103.38.46:8000/play/a0ac/index.m3u8"
     },
     {
-        "name": "Sony Pix HD (1080p)",
-        "id": "sonypixhd1080p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
-    },
-    {
         "name": "Sony SAB (720p)",
         "id": "sonysab720p",
         "category": "Entertainment",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
         "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8"
-    },
-    {
-        "name": "Sony Sports Ten 3 Hindi (576p)",
-        "id": "sonysportsten3hindi576p",
-        "category": "Sports",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
-        "streamUrl": "http://103.151.60.162:2122/play/a01t/index.m3u8?hls"
     },
     {
         "name": "Sony Wah (576p)",
@@ -5496,20 +5440,12 @@
         "streamUrl": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8"
     },
     {
-        "name": "Star Gold 2 HD (1080p)",
-        "id": "stargold2hd1080p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/G0ZfzZr.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a01v/index.m3u8?hls"
-    },
-    {
         "name": "Star Gold HD (1080p)",
         "id": "stargoldhd1080p",
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://i.imgur.com/xC460sj.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a01n/index.m3u8?hls"
+        "streamUrl": "http://103.185.24.134:3001/Star-Gold/index.m3u8"
     },
     {
         "name": "Star Gold Select (1080p)",
@@ -5520,12 +5456,12 @@
         "streamUrl": "https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8"
     },
     {
-        "name": "Star Jalsha (576p)",
-        "id": "starjalsha576p",
+        "name": "Star Jalsha (1080p) [Geo-blocked]",
+        "id": "starjalsha1080pgeoblocked",
         "category": "Entertainment",
         "language": "Hindi",
         "logo": "https://i.imgur.com/IlufzR5.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls"
+        "streamUrl": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805"
     },
     {
         "name": "Star Jalsha HD (1080p)",
@@ -5534,14 +5470,6 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/IlufzR5.png",
         "streamUrl": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8"
-    },
-    {
-        "name": "Star Kiran (576p)",
-        "id": "starkiran576p",
-        "category": "Entertainment",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://103.151.60.162:2122/play/a032/index.m3u8?hls"
     },
     {
         "name": "Star Maa HD (720p)",
@@ -5582,14 +5510,6 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/ZT0u7AK.png",
         "streamUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8"
-    },
-    {
-        "name": "Star Sports 2 (576p)",
-        "id": "starsports2576p",
-        "category": "Sports",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a019/index.m3u8?hls"
     },
     {
         "name": "Star Sports 2 Telugu HD (576p)",
@@ -5766,14 +5686,6 @@
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540",
         "streamUrl": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8"
-    },
-    {
-        "name": "Superhitz (576p)",
-        "id": "superhitz576p",
-        "category": "Undefined",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/aRNBvTU.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls"
     },
     {
         "name": "Suriya TV (1080p)",
@@ -6120,12 +6032,12 @@
         "streamUrl": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8"
     },
     {
-        "name": "Travelxp HD (1080p)",
-        "id": "travelxphd1080p",
+        "name": "Travelxp HD (1080p) [Geo-blocked]",
+        "id": "travelxphd1080pgeoblocked",
         "category": "Travel",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a01s/index.m3u8?hls"
+        "streamUrl": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8"
     },
     {
         "name": "TTN24 (720p)",
@@ -6302,14 +6214,6 @@
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
         "streamUrl": "https://fta.ektv.in/live/688/master.m3u8"
-    },
-    {
-        "name": "Unite8 Sports 2 (576p)",
-        "id": "unite8sports2576p",
-        "category": "Sports",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp",
-        "streamUrl": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls"
     },
     {
         "name": "UP NOW (720p)",
@@ -6632,14 +6536,6 @@
         "streamUrl": "https://fta.ektv.in/live/270/master.m3u8"
     },
     {
-        "name": "Zee Bangla (576p)",
-        "id": "zeebangla576p",
-        "category": "Entertainment",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a011/index.m3u8?hls"
-    },
-    {
         "name": "Zee Bangla HD (1080p)",
         "id": "zeebanglahd1080p",
         "category": "Entertainment",
@@ -6701,7 +6597,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a012/index.m3u8?hls"
+        "streamUrl": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8"
     },
     {
         "name": "Zee Comedy Nation (1080p)",
@@ -6838,14 +6734,6 @@
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0023178R.png?lock=720x540",
         "streamUrl": "https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8"
-    },
-    {
-        "name": "Zee TV (576p)",
-        "id": "zeetv576p",
-        "category": "Entertainment",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
-        "streamUrl": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls"
     },
     {
         "name": "Zee TV HD (1080p)",

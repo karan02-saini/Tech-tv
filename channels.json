@@ -5344,14 +5344,6 @@
         "streamUrl": "http://103.165.93.31:8095/sonyAath/index.m3u8"
     },
     {
-        "name": "Sony BBC Earth HD (1080p)",
-        "id": "sonybbcearthhd1080p",
-        "category": "Documentary",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://103.185.24.134:3001/SONY-BBC/index.m3u8"
-    },
-    {
         "name": "Sony Entertainment Television HD (1080p)",
         "id": "sonyentertainmenttelevisionhd1080p",
         "category": "Entertainment",
@@ -5445,15 +5437,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://i.imgur.com/xC460sj.png",
-        "streamUrl": "http://103.185.24.134:3001/Star-Gold/index.m3u8"
-    },
-    {
-        "name": "Star Gold Select (1080p)",
-        "id": "stargoldselect1080p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/U7eiuqv.png",
-        "streamUrl": "https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8"
+        "streamUrl": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8"
     },
     {
         "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -5494,14 +5478,6 @@
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
         "streamUrl": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8"
-    },
-    {
-        "name": "Star Movies Select HD (1080p)",
-        "id": "starmoviesselecthd1080p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-        "streamUrl": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8"
     },
     {
         "name": "Star Pravah HD (720p)",
@@ -6582,14 +6558,6 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/QCRhS1n.png",
         "streamUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8"
-    },
-    {
-        "name": "Zee Cinema (576p)",
-        "id": "zeecinema576p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-        "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8"
     },
     {
         "name": "Zee Cinema HD (1080p)",

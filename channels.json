@@ -1760,78 +1760,6 @@
         "streamUrl": "https://fta.ektv.in/live/159/master.m3u8"
     },
     {
-        "name": "E-Vidya 4 (576p)",
-        "id": "evidya4576p",
-        "category": "Education",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/0sz6t9F.png",
-        "streamUrl": "http://103.72.101.252:8080/live/406.m3u8"
-    },
-    {
-        "name": "E-Vidya 5 (576p)",
-        "id": "evidya5576p",
-        "category": "Education",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/0sz6t9F.png",
-        "streamUrl": "http://103.72.101.252:8080/live/407.m3u8"
-    },
-    {
-        "name": "E-Vidya 6 (576p)",
-        "id": "evidya6576p",
-        "category": "Education",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/0sz6t9F.png",
-        "streamUrl": "http://103.72.101.252:8080/live/408.m3u8"
-    },
-    {
-        "name": "E-Vidya 7 (576p)",
-        "id": "evidya7576p",
-        "category": "Education",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/0sz6t9F.png",
-        "streamUrl": "http://103.72.101.252:8080/live/404.m3u8"
-    },
-    {
-        "name": "E-Vidya 8 (576p)",
-        "id": "evidya8576p",
-        "category": "Education",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/0sz6t9F.png",
-        "streamUrl": "http://103.72.101.252:8080/live/409.m3u8"
-    },
-    {
-        "name": "E-Vidya 9 (576p)",
-        "id": "evidya9576p",
-        "category": "Education",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/0sz6t9F.png",
-        "streamUrl": "http://103.72.101.252:8080/live/410.m3u8"
-    },
-    {
-        "name": "E-Vidya 10 (576p)",
-        "id": "evidya10576p",
-        "category": "Education",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/0sz6t9F.png",
-        "streamUrl": "http://103.72.101.252:8080/live/411.m3u8"
-    },
-    {
-        "name": "E-Vidya 11 (576p)",
-        "id": "evidya11576p",
-        "category": "Education",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/0sz6t9F.png",
-        "streamUrl": "http://103.72.101.252:8080/live/1410.m3u8"
-    },
-    {
-        "name": "E-Vidya 12 (576p)",
-        "id": "evidya12576p",
-        "category": "Education",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/0sz6t9F.png",
-        "streamUrl": "http://103.72.101.252:8080/live/1532.m3u8"
-    },
-    {
         "name": "Ekamra Bharat Odia (400p)",
         "id": "ekamrabharatodia400p",
         "category": "News",
@@ -2165,7 +2093,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "",
-        "streamUrl": "https://fta.ektv.in/live/46/46_0.m3u8"
+        "streamUrl": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8"
     },
     {
         "name": "Goldmines (576p)",
@@ -2173,7 +2101,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png",
-        "streamUrl": "https://fta.ektv.in/live/53/53_0.m3u8"
+        "streamUrl": "https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8"
     },
     {
         "name": "Goldmines Action (576p)",
@@ -2189,7 +2117,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://i.imgur.com/6mNQ9mM.png",
-        "streamUrl": "https://fta.ektv.in/live/52/52_0.m3u8"
+        "streamUrl": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8"
     },
     {
         "name": "Goldmines Movies (576p)",
@@ -2197,7 +2125,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://103.175.73.12:8080/live/51/51_0.m3u8"
+        "streamUrl": "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8"
     },
     {
         "name": "Good News Today (720p)",

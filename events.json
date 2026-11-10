@@ -1,5 +1,61 @@
 [
     {
+        "match": "**India Vs Newzealand - 3rd ODI (Prime Hindi - All Quality)",
+        "streamUrl": "https://ci365.pages.dev/PHINDI",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**India Vs Newzealand - 3rd ODI (Prime English - All Quality)",
+        "streamUrl": "https://ci365.pages.dev/PENGLISH",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**India Vs Newzealand - 3rd ODI (HIN - HD)",
+        "streamUrl": "https://ci365.pages.dev/HIND2",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**India Vs Newzealand - 3rd ODI (ENG - HD)",
+        "streamUrl": "https://ci365.pages.dev/ENG2",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**India Vs Newzealand - 3rd ODI (TNT 3 - All Quality)",
+        "streamUrl": "https://ci365.pages.dev/TNT3",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**India Vs Newzealand - 3rd ODI (For iOs Users 👇🏻)",
+        "streamUrl": "https://insider365.pages.dev/All",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "**India A Vs Newzealand A - TEST (ENG - HD)",
+        "streamUrl": "https://ci365.pages.dev/ENG2",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
         "match": "Live Event (**Fancode Web →)",
         "streamUrl": "http://fancodee1.pages.dev",
         "headers": {

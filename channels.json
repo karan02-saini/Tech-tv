@@ -456,22 +456,6 @@
         "streamUrl": "https://cdn.pishow.tv/ott/live/453/master.m3u8"
     },
     {
-        "name": "Animal Planet (India) (720p)",
-        "id": "animalplanetindia720p",
-        "category": "Documentary",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8"
-    },
-    {
-        "name": "Animal Planet (India) HD (720p)",
-        "id": "animalplanetindiahd720p",
-        "category": "Documentary",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8"
-    },
-    {
         "name": "Animax Asia India (1080p) [Geo-blocked]",
         "id": "animaxasiaindia1080pgeoblocked",
         "category": "Animation",
@@ -488,12 +472,12 @@
         "streamUrl": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8"
     },
     {
-        "name": "Anmol TV (720p)",
-        "id": "anmoltv720p",
+        "name": "Anmol TV (576p)",
+        "id": "anmoltv576p",
         "category": "Entertainment",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8"
+        "streamUrl": "https://fta.ektv.in/live/256/master.m3u8"
     },
     {
         "name": "APN (576p)",
@@ -910,14 +894,6 @@
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540",
         "streamUrl": "https://fta.ektv.in/live/173/master.m3u8"
-    },
-    {
-        "name": "Cartoon Network (India) (720p)",
-        "id": "cartoonnetworkindia720p",
-        "category": "Animation;Kids",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8"
     },
     {
         "name": "Cartoon Network HD+ (1080p)",
@@ -1632,44 +1608,12 @@
         "streamUrl": "https://cdn.pishow.tv/ott/live/1456/master.m3u8"
     },
     {
-        "name": "Discovery Channel (India) (720p)",
-        "id": "discoverychannelindia720p",
-        "category": "Entertainment",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8"
-    },
-    {
         "name": "Discovery Channel (India) HD (1080p)",
         "id": "discoverychannelindiahd1080p",
         "category": "Entertainment",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
         "streamUrl": "http://103.135.253.32:8080/DISCOVERY/index.m3u8"
-    },
-    {
-        "name": "Discovery Kids (720p)",
-        "id": "discoverykids720p",
-        "category": "Kids",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/0iNQvoL.png",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8"
-    },
-    {
-        "name": "Discovery Science (720p)",
-        "id": "discoveryscience720p",
-        "category": "Science",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8"
-    },
-    {
-        "name": "Discovery Turbo (India) (720p)",
-        "id": "discoveryturboindia720p",
-        "category": "Auto",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8"
     },
     {
         "name": "Disha TV (396p)",
@@ -1966,14 +1910,6 @@
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LOGO_HD/image.png",
         "streamUrl": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8"
-    },
-    {
-        "name": "Eurosport (India) (720p)",
-        "id": "eurosportindia720p",
-        "category": "Sports",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8"
     },
     {
         "name": "Eurosport (India) HD (1080p)",
@@ -2332,7 +2268,7 @@
         "id": "hindihits1080p",
         "category": "Music",
         "language": "Hindi",
-        "logo": "https://i.postimg.cc/ryC1Y2K4/Capture.png",
+        "logo": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",
         "streamUrl": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
     },
     {
@@ -2606,14 +2542,6 @@
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png",
         "streamUrl": "https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8"
-    },
-    {
-        "name": "Investigation Discovery (India) (720p)",
-        "id": "investigationdiscoveryindia720p",
-        "category": "Documentary",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8"
     },
     {
         "name": "INWILD (1080p)",
@@ -4224,12 +4152,12 @@
         "streamUrl": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
     },
     {
-        "name": "Pogo (720p)",
-        "id": "pogo720p",
+        "name": "Pogo (576p)",
+        "id": "pogo576p",
         "category": "Animation;Kids",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8"
+        "streamUrl": "http://103.135.253.32:8080/POGO/index.m3u8"
     },
     {
         "name": "Polimer News (576p)",
@@ -5296,14 +5224,6 @@
         "streamUrl": "http://59.103.38.46:8000/play/a0ac/index.m3u8"
     },
     {
-        "name": "Sony SAB (720p)",
-        "id": "sonysab720p",
-        "category": "Entertainment",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8"
-    },
-    {
         "name": "Sony Wah (576p)",
         "id": "sonywah576p",
         "category": "Movies",
@@ -5872,22 +5792,6 @@
         "streamUrl": "https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8"
     },
     {
-        "name": "TLC (India) (720p)",
-        "id": "tlcindia720p",
-        "category": "Lifestyle",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8"
-    },
-    {
-        "name": "TLC (India) HD (720p)",
-        "id": "tlcindiahd720p",
-        "category": "Lifestyle",
-        "language": "Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
-        "streamUrl": "https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8"
-    },
-    {
         "name": "TNP News (1080p)",
         "id": "tnpnews1080p",
         "category": "News",
@@ -6244,7 +6148,7 @@
         "id": "visionbeats720p",
         "category": "Music",
         "language": "Hindi",
-        "logo": "https://i.imgur.com/xx5RQdi.png",
+        "logo": "https://i.imgur.com/lxR5FKh.png",
         "streamUrl": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8"
     },
     {

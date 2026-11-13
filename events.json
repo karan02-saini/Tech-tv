@@ -1,5 +1,13 @@
 [
     {
+        "match": "**Australia Vs England - 1st ODi (Willow - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/WAE",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
         "match": "**India Vs Newzealand - 4th ODI (Prime Hindi - All Quality)",
         "streamUrl": "https://ci365.pages.dev/PHINDI",
         "headers": {

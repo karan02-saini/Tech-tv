@@ -1,50 +1,26 @@
 [
     {
-        "match": "**Australia Vs England - 1st ODi (Willow - All Quality)",
-        "streamUrl": "https://insider365.pages.dev/WAE",
+        "match": "Live Event (HIN - HD)",
+        "streamUrl": "https://insider365.pages.dev/T10",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://insider365.pages.dev/"
         }
     },
     {
-        "match": "**India Vs Newzealand - 4th ODI (Prime Hindi - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/PHINDI",
+        "match": "Live Event (Willow - For Pc & Android)",
+        "streamUrl": "https://insider365.pages.dev/WAD",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
+            "Referer": "https://insider365.pages.dev/"
         }
     },
     {
-        "match": "**India Vs Newzealand - 4th ODI (Prime English - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/PENGLISH",
+        "match": "Live Event (All Devices - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/iOs",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 4th ODI (HIN - HD)",
-        "streamUrl": "https://ci365.pages.dev/HIND2",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 4th ODI (ENG - HD)",
-        "streamUrl": "https://ci365.pages.dev/ENG2",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 4th ODI (TNT 3 - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/TNT3",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
+            "Referer": "https://insider365.pages.dev/"
         }
     },
     {

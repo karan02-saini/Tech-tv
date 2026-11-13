@@ -2648,6 +2648,14 @@
         "streamUrl": "https://cdn.pishow.tv/ott/live/989/master.m3u8"
     },
     {
+        "name": "JK 24x7 News (576p)",
+        "id": "jk24x7news576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540",
+        "streamUrl": "https://samitaorigin.tangotv.in/JKL24X7NEWS/SAMITAORIGIN/index.m3u8"
+    },
+    {
         "name": "Jonack (576p)",
         "id": "jonack576p",
         "category": "General",
@@ -2782,6 +2790,14 @@
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png",
         "streamUrl": "https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8"
+    },
+    {
+        "name": "Karnataka News Beat (1080p)",
+        "id": "karnatakanewsbeat1080p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/newsbeatkarnataka.png",
+        "streamUrl": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8"
     },
     {
         "name": "Kashish News (720p)",
@@ -3950,6 +3966,14 @@
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png",
         "streamUrl": "https://stream.ottlive.co.in/nkrtv/index.m3u8"
+    },
+    {
+        "name": "Non Stop Bharat (576p)",
+        "id": "nonstopbharat576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://www.lyngsat.com/logo/tv/nn/nonstop-bharat-in.png",
+        "streamUrl": "https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8"
     },
     {
         "name": "Northeast Live (720p)",
@@ -5912,12 +5936,12 @@
         "streamUrl": "https://cdn.pishow.tv/ott/live/387/master.m3u8"
     },
     {
-        "name": "TV7 Bharat (576p)",
-        "id": "tv7bharat576p",
+        "name": "TV7 Bharat (1080p)",
+        "id": "tv7bharat1080p",
         "category": "News",
         "language": "Hindi",
         "logo": "https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg",
-        "streamUrl": "https://stream.ottlive.co.in/tv7bharat/index.m3u8"
+        "streamUrl": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/797fcff8-10d6-4c9c-a409-8d0c4fa5c8dd/index.m3u8"
     },
     {
         "name": "TV7 National (1080p)",

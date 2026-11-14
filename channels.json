@@ -653,7 +653,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://i.imgur.com/M9kMFJl.png",
-        "streamUrl": "http://103.135.253.32:8080/B4U-MOVIES/index.m3u8"
+        "streamUrl": "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8"
     },
     {
         "name": "B4U Music (1080p)",
@@ -2582,14 +2582,6 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/25eWjX2.png",
         "streamUrl": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8"
-    },
-    {
-        "name": "Jalsha Movies HD (1080p)",
-        "id": "jalshamovieshd1080p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/25eWjX2.png",
-        "streamUrl": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8"
     },
     {
         "name": "Jan TV (576p)",
@@ -5264,14 +5256,6 @@
         "streamUrl": "http://38.96.178.205/SONYHD/index.m3u8"
     },
     {
-        "name": "Sony Max 1 (720p)",
-        "id": "sonymax1720p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV"
-    },
-    {
         "name": "Sony Pal (576p)",
         "id": "sonypal576p",
         "category": "Entertainment",
@@ -5382,14 +5366,6 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/m7DvvqF.png",
         "streamUrl": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
-    },
-    {
-        "name": "Star Sports Select 2 HD (720p)",
-        "id": "starsportsselect2hd720p",
-        "category": "Sports",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/FtRT73R.png",
-        "streamUrl": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8"
     },
     {
         "name": "Star Utsav (576p)",
@@ -6392,20 +6368,12 @@
         "streamUrl": "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8"
     },
     {
-        "name": "Zee Action (576p)",
-        "id": "zeeaction576p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
-        "streamUrl": "https://fta.ektv.in/live/270/master.m3u8"
-    },
-    {
-        "name": "Zee Bangla HD (1080p)",
-        "id": "zeebanglahd1080p",
+        "name": "Zee Bangla HD (720p)",
+        "id": "zeebanglahd720p",
         "category": "Entertainment",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
-        "streamUrl": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8"
+        "streamUrl": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
     },
     {
         "name": "Zee Bangla Sonar (576p)",

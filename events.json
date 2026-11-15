@@ -1,5 +1,13 @@
 [
     {
+        "match": "**Australia Vs England - 2nd ODi (Willow - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/WAE",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
         "match": "**India Vs Newzealand - 5th ODI (Prime Hindi - All Quality)",
         "streamUrl": "https://ci365.pages.dev/PHINDI",
         "headers": {
@@ -37,14 +45,6 @@
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "Live Event (Willow - All Quality)",
-        "streamUrl": "https://insider365.pages.dev/WBBL2",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
         }
     },
     {

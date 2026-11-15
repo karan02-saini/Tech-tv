@@ -360,14 +360,6 @@
         "streamUrl": "https://d3c7vdfq3tyeyw.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/v1/channel/ruskmedia/germane.m3u8"
     },
     {
-        "name": "AmarUjala (1080p)",
-        "id": "amarujala1080p",
-        "category": "News",
-        "language": "Hindi",
-        "logo": "https://i.imgur.com/ndQ8LZp.png",
-        "streamUrl": "https://amarujala.ottlive.co.in/amarujala/index.m3u8"
-    },
-    {
         "name": "AMN TV (576p)",
         "id": "amntv576p",
         "category": "General",
@@ -568,20 +560,12 @@
         "streamUrl": "https://asianet-prasarbharati.vgcdn.net/out/v1/bd05c931d9d94d288bbe455cc0f7e229/playlist.m3u8"
     },
     {
-        "name": "Asom Live 24 (576p)",
-        "id": "asomlive24576p",
-        "category": "News",
-        "language": "Hindi",
-        "logo": "https://papaji.freetvindia.com/media/channels/asom_live_24x7.png",
-        "streamUrl": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8"
-    },
-    {
         "name": "Assam Talks (576p)",
         "id": "assamtalks576p",
         "category": "News",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8"
+        "streamUrl": "https://cdn.pishow.tv/ott/live/258/master.m3u8"
     },
     {
         "name": "Astroscience (576p)",

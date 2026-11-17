@@ -136,12 +136,12 @@
         "streamUrl": "https://stream.ottlive.co.in/aajkikhabar/index.m3u8"
     },
     {
-        "name": "Aaj Tak (1080p)",
-        "id": "aajtak1080p",
+        "name": "Aaj Tak (720p)",
+        "id": "aajtak720p",
         "category": "News",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
-        "streamUrl": "http://103.213.31.109:90/AajtakHD/playlist.m3u8"
+        "streamUrl": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8"
     },
     {
         "name": "Aaj Tak HD (1080p)",
@@ -157,7 +157,7 @@
         "category": "Entertainment",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540",
-        "streamUrl": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8"
+        "streamUrl": "https://cdn.pishow.tv/ott/live/969/master.m3u8"
     },
     {
         "name": "Aamar Bangla (720p)",
@@ -757,7 +757,7 @@
         "category": "News",
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png",
-        "streamUrl": "https://fta.ektv.in/live/97/97_0.m3u8"
+        "streamUrl": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8"
     },
     {
         "name": "BHI Channel (720p)",
@@ -2240,8 +2240,8 @@
         "streamUrl": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8"
     },
     {
-        "name": "Hindi Hits (1080p)",
-        "id": "hindihits1080p",
+        "name": "Hindi Hits SD (1080p)",
+        "id": "hindihitssd1080p",
         "category": "Music",
         "language": "Hindi",
         "logo": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",

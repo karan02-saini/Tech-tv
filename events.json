@@ -1,23 +1,31 @@
 [
     {
-        "match": "Live Event (HIN - HD)",
-        "streamUrl": "https://insider365.pages.dev/T10",
+        "match": "**Nepal Premier League (ENG - All Quality)",
+        "streamUrl": "https://livedekhoo.pages.dev/Willow2/",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
+            "Referer": "https://livedekhoo.pages.dev/"
         }
     },
     {
-        "match": "Live Event (Willow - For Pc & Android)",
-        "streamUrl": "https://insider365.pages.dev/WAD",
+        "match": "**Africa Vs BAN  - 1st Test (Willow - For Pc & Android)",
+        "streamUrl": "https://livedekhoo.pages.dev/TNT2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
+            "Referer": "https://livedekhoo.pages.dev/"
         }
     },
     {
-        "match": "Live Event (All Devices - All Quality)",
-        "streamUrl": "https://insider365.pages.dev/iOs",
+        "match": "**Bhikaristan Vs SL - TEST (ENG - All Devices)",
+        "streamUrl": "https://livedekhoo.pages.dev/**Shoq",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://livedekhoo.pages.dev/"
+        }
+    },
+    {
+        "match": "**Australia Vs England - 3rd ODi (Willow - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/WAE",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://insider365.pages.dev/"

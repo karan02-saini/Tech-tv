@@ -1,58 +1,26 @@
 [
     {
-        "match": "**India Vs Newzealand - 1st TEST (Prime Hindi - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/PHINDI",
+        "match": "**Africa Vs BAN  - 1st Test (Willow - For Pc & Android)",
+        "streamUrl": "https://livedekhoo.pages.dev/TNT2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
+            "Referer": "https://livedekhoo.pages.dev/"
         }
     },
     {
-        "match": "**India Vs Newzealand - 1st TEST (Prime English - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/PENGLISH",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 1st TEST (HIN - HD)",
-        "streamUrl": "https://ci365.pages.dev/HIND2",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 1st TEST (ENG - HD)",
-        "streamUrl": "https://ci365.pages.dev/ENG2",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 1st TEST (TNT 3 - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/TNT3",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 1st TEST (Willow By Cricbuzz - All Quality)",
-        "streamUrl": "https://ci365.pages.dev/Willow",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 1st TEST (For iOs Users 👇🏻)",
-        "streamUrl": "https://insider365.pages.dev/All",
+        "match": "Live Event (Willow - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/WBBL2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "**Bhikaristan Vs SL - TEST (ENG - All Devices)",
+        "streamUrl": "https://livedekhoo.pages.dev/**Shoq",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://livedekhoo.pages.dev/"
         }
     },
     {

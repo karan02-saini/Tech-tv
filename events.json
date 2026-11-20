@@ -1,6 +1,6 @@
 [
     {
-        "match": "**India Vs Newzealand - 1st TEST (Prime Hindi - All Quality)",
+        "match": "**India A Vs NEPAL - Rising Star (Prime Hindi - All Quality)",
         "streamUrl": "https://ci365.pages.dev/PHINDI",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -8,7 +8,7 @@
         }
     },
     {
-        "match": "**India Vs Newzealand - 1st TEST (Prime English - All Quality)",
+        "match": "**India A Vs NEPAL - Rising Star (Prime English - All Quality)",
         "streamUrl": "https://ci365.pages.dev/PENGLISH",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -16,7 +16,7 @@
         }
     },
     {
-        "match": "**India Vs Newzealand - 1st TEST (HIN - HD)",
+        "match": "**India A Vs NEPAL - Rising Star (HIN - HD)",
         "streamUrl": "https://ci365.pages.dev/HIND2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -24,7 +24,7 @@
         }
     },
     {
-        "match": "**India Vs Newzealand - 1st TEST (ENG - HD)",
+        "match": "**India A Vs NEPAL - Rising Star (ENG - HD)",
         "streamUrl": "https://ci365.pages.dev/ENG2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -32,7 +32,7 @@
         }
     },
     {
-        "match": "**India Vs Newzealand - 1st TEST (Willow By Cricbuzz - All Quality)",
+        "match": "**India A Vs NEPAL - Rising Star (Willow By Cricbuzz - All Quality)",
         "streamUrl": "https://ci365.pages.dev/Willow",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -40,11 +40,43 @@
         }
     },
     {
-        "match": "**India Vs Newzealand - 1st TEST (For iOs Users 👇🏻)",
+        "match": "**India A Vs NEPAL - Rising Star (For iOs Users 👇🏻)",
         "streamUrl": "https://insider365.pages.dev/All",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "Live Event (Willow - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/WBBL2",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "**PAK A Vs UAE - Rising Star (Willow - For Pc & Android)",
+        "streamUrl": "https://insider365.pages.dev/Willow2",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "**PAK A Vs UAE - Rising Star (ENG - HD)",
+        "streamUrl": "https://ci365.pages.dev/ENG",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**Bhikaristan Vs SL - TEST (ENG - All Devices)",
+        "streamUrl": "https://livedekhoo.pages.dev/**Shoq",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://livedekhoo.pages.dev/"
         }
     },
     {

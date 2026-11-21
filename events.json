@@ -1,23 +1,31 @@
 [
     {
-        "match": "**SL A Vs Hong Kong - Rising Star (ENG - HD)",
-        "streamUrl": "https://ci365.pages.dev/ENG",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "Live Event (Fancode - All Devices)",
-        "streamUrl": "https://insider365.pages.dev/WBBL",
+        "match": "**ILT20 - 2026 (HIN - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/WAD",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://insider365.pages.dev/"
         }
     },
     {
-        "match": "Live Event (Willow - All Quality)",
-        "streamUrl": "https://insider365.pages.dev/WBBL2",
+        "match": "**ILT20 - 2026 (Willow - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/W5",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "**ILT20 - 2026 (ENG - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/Zee",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "**BAN A Vs AFG A - Rising Star (Willow - For Pc & Android)",
+        "streamUrl": "https://insider365.pages.dev/Willow2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://insider365.pages.dev/"

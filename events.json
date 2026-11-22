@@ -80,19 +80,11 @@
         }
     },
     {
-        "match": "**UAE Vs NEPAL - Rising Star (ENG - HD)",
-        "streamUrl": "https://ci365.pages.dev/ENG",
+        "match": "Live Event (**Fancode Web →)",
+        "streamUrl": "http://fancodee1.pages.dev",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "Live Event (Fancode - All Devices)",
-        "streamUrl": "https://insider365.pages.dev/WBBL",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
+            "Referer": "https://fancodee1.pages.dev/"
         }
     }
 ]

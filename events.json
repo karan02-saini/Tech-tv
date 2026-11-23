@@ -1,34 +1,50 @@
 [
     {
-        "match": "**India Vs Newzealand - 1st TEST (HIN - HD)",
-        "streamUrl": "https://ci365.pages.dev/HIND2",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 1st TEST (ENG - HD)",
-        "streamUrl": "https://ci365.pages.dev/ENG2",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 1st TEST (Willow  - For Pc & Android)",
-        "streamUrl": "https://ci365.pages.dev/Willow",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 1st TEST (For iOs Users 👇🏻)",
-        "streamUrl": "https://insider365.pages.dev/All",
+        "match": "**ILT20 - 2026 (HIN - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/WAD",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "**ILT20 - 2026 (Willow - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/W5",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "**ILT20 - 2026 (ENG - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/Zee",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "**ILT20 - 2026 (iOs Users 👇🏻)",
+        "streamUrl": "https://insider365.pages.dev/iOs/",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "**Srilanka A Vs Bangladesh A - (ENG - All Devices)",
+        "streamUrl": "https://livedekhoo.pages.dev/Willow2",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://livedekhoo.pages.dev/"
+        }
+    },
+    {
+        "match": "**Africa Vs BAN  - 2nd Test (Willow - For Pc & Android)",
+        "streamUrl": "https://livedekhoo.pages.dev/TNT2",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://livedekhoo.pages.dev/"
         }
     },
     {

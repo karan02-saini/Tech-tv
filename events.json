@@ -1,6 +1,6 @@
 [
     {
-        "match": "**Barcelona Vs Sabah (HIN - HD)",
+        "match": "**India A Vs SL A - Semi Final 1 (HIN - HD)",
         "streamUrl": "https://ci365.pages.dev/HIND2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -8,11 +8,43 @@
         }
     },
     {
-        "match": "**Barcelona Vs Sabah (ENG - HD)",
+        "match": "**India A Vs SL A - Semi Final 1 (ENG - HD)",
         "streamUrl": "https://ci365.pages.dev/ENG2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**India A Vs SL A - Semi Final 1 (Willow - For Pc & Android)",
+        "streamUrl": "https://ci365.pages.dev/Willow",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://ci365.pages.dev/"
+        }
+    },
+    {
+        "match": "**India A Vs SL A - Semi Final 1 (For iOs Users 👇🏻)",
+        "streamUrl": "https://insider365.pages.dev/All",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "Live Event (Fancode - All Devices)",
+        "streamUrl": "https://insider365.pages.dev/WBBL",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
+        }
+    },
+    {
+        "match": "Live Event (Willow - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/WBBL2",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://insider365.pages.dev/"
         }
     },
     {

@@ -1,26 +1,18 @@
 [
     {
-        "match": "**ILT20 - 2026 (Willow - All Quality)",
-        "streamUrl": "https://insider365.pages.dev/W5",
+        "match": "**Barcelona Vs Sabah (HIN - HD)",
+        "streamUrl": "https://ci365.pages.dev/HIND2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
+            "Referer": "https://ci365.pages.dev/"
         }
     },
     {
-        "match": "**ILT20 - 2026 (FANCODE - All Quality)",
-        "streamUrl": "https://insider365.pages.dev/WAD",
+        "match": "**Barcelona Vs Sabah (ENG - HD)",
+        "streamUrl": "https://ci365.pages.dev/ENG2",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
-        }
-    },
-    {
-        "match": "**ILT20 - 2026 (All Devices  - iOs & All Users)",
-        "streamUrl": "https://insider365.pages.dev/iOs",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://insider365.pages.dev/"
+            "Referer": "https://ci365.pages.dev/"
         }
     },
     {

@@ -421,7 +421,7 @@
         "category": "Religious",
         "language": "Hindi",
         "logo": "https://i.imgur.com/qKLEGU7.png",
-        "streamUrl": "https://cdn.pishow.tv/ott/live/453/master.m3u8"
+        "streamUrl": "http://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8"
     },
     {
         "name": "Animax Asia India (1080p) [Geo-blocked]",
@@ -446,6 +446,22 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/sh0yFSf.png",
         "streamUrl": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8"
+    },
+    {
+        "name": "Anmol Cinema 2 (576p)",
+        "id": "anmolcinema2576p",
+        "category": "Movies",
+        "language": "Hindi",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png",
+        "streamUrl": "http://103.175.73.12:8080/live/257/257_0.m3u8"
+    },
+    {
+        "name": "Anmol Cinema (576p)",
+        "id": "anmolcinema576p",
+        "category": "Movies",
+        "language": "Hindi",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",
+        "streamUrl": "http://103.175.73.12:8080/live/271/271_0.m3u8"
     },
     {
         "name": "APN (576p)",
@@ -621,7 +637,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8"
+        "streamUrl": "https://amg01408-amg01408c6-amgplt0747.playout.now3.amagi.tv/b4ua001/playlist.m3u8"
     },
     {
         "name": "B4U Movies (1080p)",
@@ -629,7 +645,7 @@
         "category": "Movies",
         "language": "Hindi",
         "logo": "https://i.imgur.com/M9kMFJl.png",
-        "streamUrl": "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8"
+        "streamUrl": "https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8"
     },
     {
         "name": "B4U Music (1080p)",
@@ -766,6 +782,14 @@
         "language": "Hindi",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png",
         "streamUrl": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
+    },
+    {
+        "name": "Big Magic (576p)",
+        "id": "bigmagic576p",
+        "category": "Entertainment",
+        "language": "Hindi",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540",
+        "streamUrl": "http://103.175.73.12:8080/live/13/13_0.m3u8"
     },
     {
         "name": "Big TV 24x7 (1080p)",
@@ -1030,6 +1054,14 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/M8uCJ0D.png",
         "streamUrl": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8"
+    },
+    {
+        "name": "Colors Bangla (1080p)",
+        "id": "colorsbangla1080p",
+        "category": "Entertainment",
+        "language": "Hindi",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png",
+        "streamUrl": "http://103.16.24.4:8083/12.m3u8"
     },
     {
         "name": "Colors Cineplex (576p)",
@@ -2432,14 +2464,6 @@
         "streamUrl": "https://fta.ektv.in/live/304/master.m3u8"
     },
     {
-        "name": "India Talkies (360p)",
-        "id": "indiatalkies360p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://papaji.freetvindia.com/media/FreeTV_India_Talkies.png",
-        "streamUrl": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8"
-    },
-    {
         "name": "India Today (1080p)",
         "id": "indiatoday1080p",
         "category": "News",
@@ -3240,6 +3264,14 @@
         "streamUrl": "https://cdn.pishow.tv/ott/live/1481/master.m3u8"
     },
     {
+        "name": "Media Today News HD (1080p)",
+        "id": "mediatodaynewshd1080p",
+        "category": "Entertainment",
+        "language": "Hindi",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8NN2CHm8hxb4cvs3MVWnHwk7bPKROjAgKhSBAH1b2CZo9Aw-eyXS_KgY&s=10",
+        "streamUrl": "https://live.skystream.in/live/mediatday/index.m3u8"
+    },
+    {
         "name": "MediBizTV (720p)",
         "id": "medibiztv720p",
         "category": "Education;News;Science",
@@ -3576,6 +3608,14 @@
         "streamUrl": "https://mumbai-edge.smartplaytv.in/Network10/index.m3u8"
     },
     {
+        "name": "Network Payyanur (576p)",
+        "id": "networkpayyanur576p",
+        "category": "Entertainment",
+        "language": "Hindi",
+        "logo": "https://play-lh.googleusercontent.com/xIfTwT6zDR2ZIXzHQww22f4pf6uahuDe_f0qexCJfKgvf4QD34g-RPAEPj5BVW6HjCldWcO9d8af93mDZAX0",
+        "streamUrl": "https://live.skystream.in/live/networkpayyanur/index.m3u8"
+    },
+    {
         "name": "New Vision HD (576p)",
         "id": "newvisionhd576p",
         "category": "Entertainment",
@@ -3776,6 +3816,14 @@
         "streamUrl": "https://fta.ektv.in/live/303/master.m3u8"
     },
     {
+        "name": "News Adda (720p)",
+        "id": "newsadda720p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://yt3.googleusercontent.com/P0cbg1fLI_EaEjNvXmZFVY12temn0DLW9Ii-8WUHuYlqFVpzGJBI_ITGHdHRmdmpeJSIpjrmPKw=s900-c-k-c0x00ffffff-no-rj",
+        "streamUrl": "https://mumbai-edge.smartplaytv.in/NewsAdda/index.m3u8"
+    },
+    {
         "name": "News Capital Gujarat (1080p)",
         "id": "newscapitalgujarat1080p",
         "category": "News",
@@ -3936,6 +3984,14 @@
         "streamUrl": "https://streamlive.livebox.co.in/NewsTVIndiahls/live.m3u8"
     },
     {
+        "name": "NewStar (576p)",
+        "id": "newstar576p",
+        "category": "Entertainment",
+        "language": "Hindi",
+        "logo": "https://play-lh.googleusercontent.com/JLiLXoTU8b57K5qjOdLZ_vlsZ45DpKdVOsobf9WIOYuX9MzEztvmdnTDJOSjnasmOlC4ZblYfgBb7nYYz2fBZw=w240-h480-rw",
+        "streamUrl": "https://live.skystream.in/live/newsstar2924/index.m3u8"
+    },
+    {
         "name": "NewsX (576p)",
         "id": "newsx576p",
         "category": "News",
@@ -3974,6 +4030,14 @@
         "language": "Hindi",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260623T015348SQUARE.png",
         "streamUrl": "https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf"
+    },
+    {
+        "name": "Nickelodeon (India)",
+        "id": "nickelodeonindia",
+        "category": "Kids",
+        "language": "Hindi",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
+        "streamUrl": "http://103.148.210.190:8000/play/a0zu"
     },
     {
         "name": "Nijam TV (1080p)",
@@ -4288,6 +4352,14 @@
         "streamUrl": "https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8"
     },
     {
+        "name": "Powran Media (720p) [Not 24/7]",
+        "id": "powranmedia720pnot247",
+        "category": "Entertainment",
+        "language": "Hindi",
+        "logo": "https://i.ibb.co/XrBb1DNZ/1000153157.png",
+        "streamUrl": "https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8"
+    },
+    {
         "name": "Prag News (576p)",
         "id": "pragnews576p",
         "category": "News",
@@ -4437,7 +4509,7 @@
         "category": "News",
         "language": "Hindi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png",
-        "streamUrl": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8"
+        "streamUrl": "http://103.175.73.12:8080/live/237/237_0.m3u8"
     },
     {
         "name": "Public Movies (576p)",
@@ -5360,6 +5432,14 @@
         "streamUrl": "http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass"
     },
     {
+        "name": "Sony Sports Ten 2 (1080p)",
+        "id": "sonysportsten21080p",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
+        "streamUrl": "http://103.16.24.4:8083/6.m3u8"
+    },
+    {
         "name": "Sony Sports Ten 3 Hindi (1080p)",
         "id": "sonysportsten3hindi1080p",
         "category": "Sports",
@@ -5464,6 +5544,14 @@
         "streamUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8"
     },
     {
+        "name": "Star Sports Khel (1080p)",
+        "id": "starsportskhel1080p",
+        "category": "Sports",
+        "language": "Hindi",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png",
+        "streamUrl": "http://103.175.73.12:8080/live/151/151_0.m3u8"
+    },
+    {
         "name": "Star Utsav (576p)",
         "id": "starutsav576p",
         "category": "Entertainment",
@@ -5558,6 +5646,14 @@
         "language": "Hindi",
         "logo": "https://i.imgur.com/BOhgz2T.png",
         "streamUrl": "https://d2gvyg6lvauoko.cloudfront.net/230226/studioyuva/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+    },
+    {
+        "name": "STV Haryana News (576p)",
+        "id": "stvharyananews576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://i.imgur.com/TJRZo9e.png",
+        "streamUrl": "http://103.175.73.12:8080/live/607/607_0.m3u8"
     },
     {
         "name": "Subhavaartha TV (720p)",
@@ -6128,6 +6224,14 @@
         "streamUrl": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8"
     },
     {
+        "name": "TVN News (576p)",
+        "id": "tvnnews576p",
+        "category": "News",
+        "language": "Hindi",
+        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/4037-800x450-FFFFFF.jpg",
+        "streamUrl": "https://cdn.pishow.tv/ott/live/10010/master.m3u8"
+    },
+    {
         "name": "U Bangla (1080p)",
         "id": "ubangla1080p",
         "category": "Undefined",
@@ -6440,6 +6544,14 @@
         "streamUrl": "https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8"
     },
     {
+        "name": "YuppTV Veda (720p)",
+        "id": "yupptvveda720p",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/cbjodg.png",
+        "streamUrl": "https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+    },
+    {
         "name": "Zainabia Channel",
         "id": "zainabiachannel",
         "category": "Religious",
@@ -6502,6 +6614,22 @@
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00230LKE.png?lock=720x540",
         "streamUrl": "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8"
+    },
+    {
+        "name": "Zee Action (576p)",
+        "id": "zeeaction576p",
+        "category": "Movies",
+        "language": "Hindi",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
+        "streamUrl": "http://103.175.73.12:8080/live/270/270_0.m3u8"
+    },
+    {
+        "name": "Zee Bangla (1080p)",
+        "id": "zeebangla1080p",
+        "category": "Entertainment",
+        "language": "Hindi",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png",
+        "streamUrl": "http://103.16.24.4:8083/10.m3u8"
     },
     {
         "name": "Zee Bangla HD (720p)",

@@ -1,31 +1,15 @@
 [
     {
-        "match": "**India Vs Newzealand - 2nd TEST (HIN - HD)",
-        "streamUrl": "https://ci365.pages.dev/HIND2",
+        "match": "**ILT20 - 2026 (Willow - All Quality)",
+        "streamUrl": "https://insider365.pages.dev/W5",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
+            "Referer": "https://insider365.pages.dev/"
         }
     },
     {
-        "match": "**India Vs Newzealand - 2nd TEST (ENG - HD)",
-        "streamUrl": "https://ci365.pages.dev/ENG2",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 2nd TEST (Willow  - For Pc & Android)",
-        "streamUrl": "https://ci365.pages.dev/Willow",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://ci365.pages.dev/"
-        }
-    },
-    {
-        "match": "**India Vs Newzealand - 2nd TEST (For iOs Users 👇🏻)",
-        "streamUrl": "https://insider365.pages.dev/All",
+        "match": "**ILT20 - 2026 (FANCODE  - iOs & All Users)",
+        "streamUrl": "https://insider365.pages.dev/iOs",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://insider365.pages.dev/"

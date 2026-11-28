@@ -3420,7 +3420,7 @@
         "id": "mtvindia396p",
         "category": "Entertainment",
         "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/MTV_2021_%283D%29_%28Print%29.svg/revision/latest?cb=20220218200449",
         "streamUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8"
     },
     {
@@ -3428,7 +3428,7 @@
         "id": "mtvindiahd396p",
         "category": "Entertainment",
         "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d0/MTV_India_HD_2022_II.svg/revision/latest?cb=20220404071038",
         "streamUrl": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8"
     },
     {
@@ -4144,6 +4144,14 @@
         "streamUrl": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8"
     },
     {
+        "name": "Om Shanti",
+        "id": "omshanti",
+        "category": "Religious",
+        "language": "Hindi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Om_Shanti.png",
+        "streamUrl": "https://webcastcdnbkwsu.b-cdn.net/live/godlywood_1/index.m3u8"
+    },
+    {
         "name": "OM TV (576p)",
         "id": "omtv576p",
         "category": "Religious",
@@ -4824,6 +4832,14 @@
         "streamUrl": "http://163.61.226.31:9981/stream/channelid/1090287783?profile=pass"
     },
     {
+        "name": "Republic Business (576p) [Geo-blocked]",
+        "id": "republicbusiness576pgeoblocked",
+        "category": "Business",
+        "language": "Hindi",
+        "logo": "https://yt3.googleusercontent.com/Q1oCTccWVtIPxZA79uKM6Qnm4h3s0Jo1Ipx2FHldTh-u1RNGIMfQD6_VIfM8BYcAvP2We6ydRVE=s900-c-k-c0x00ffffff-no-rj",
+        "streamUrl": "https://rbusiness.cdn.runn.tv/amg01218c8/hls.m3u8"
+    },
+    {
         "name": "Republic Kannada (720p)",
         "id": "republickannada720p",
         "category": "News",
@@ -5414,14 +5430,6 @@
         "language": "Hindi",
         "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
         "streamUrl": "https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8"
-    },
-    {
-        "name": "Sony Max HD (1080p)",
-        "id": "sonymaxhd1080p",
-        "category": "Movies",
-        "language": "Hindi",
-        "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-        "streamUrl": "https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8"
     },
     {
         "name": "Sony Pal (576p)",
